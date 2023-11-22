@@ -723,3 +723,1457 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.11.22-16.37.26:068][ 54]LogSlate: Window 'Project Settings' being destroyed
 [2023.11.22-16.37.36:858][286]LogDerivedDataCache: C:/Users/Aidan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.010 and deleted 0 file(s) with total size 0 MiB.
 [2023.11.22-16.37.45:402][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.11.22-16.45.48:548][936]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2023.11.22-16.45.48:552][936]LogContentBrowser: Creating deferred item: NewInputAction
+[2023.11.22-16.45.48:577][938]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2023.11.22-16.45.53:758][551]LogContentBrowser: Attempting asset rename: NewInputAction -> Move_IA
+[2023.11.22-16.45.53:759][551]LogContentBrowser: End creating deferred item NewInputAction
+[2023.11.22-16.45.55:711][785]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Controls/Move_IA.Move_IA
+[2023.11.22-16.46.06:296][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Controls/Move_IA" FILE="C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Controls/Move_IA.uasset" SILENT=true
+[2023.11.22-16.46.06:300][ 44]LogPackageLocalizationCache: Processed 31 localized package path(s) for 1 prioritized culture(s) in 0.003882 seconds
+[2023.11.22-16.46.06:300][ 44]LogSavePackage: Moving output files for package: /Game/Controls/Move_IA
+[2023.11.22-16.46.06:300][ 44]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/Move_IA83437BFB4993D1C79708C7BD698B95C4.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Controls/Move_IA.uasset'
+[2023.11.22-16.46.06:306][ 44]AssetCheck: New page: Asset Save: Move_IA
+[2023.11.22-16.46.06:306][ 44]LogContentValidation: Display: Validating InputAction /Game/Controls/Move_IA.Move_IA
+[2023.11.22-16.46.09:112][378]LogSlate: Window 'Move_IA' being destroyed
+[2023.11.22-16.46.09:117][378]LogSlate: Window 'Move_IA' being destroyed
+[2023.11.22-16.46.15:789][158]LogContentBrowser: Deferred new asset file creation: NewInputMappingContext
+[2023.11.22-16.46.15:793][158]LogContentBrowser: Creating deferred item: NewInputMappingContext
+[2023.11.22-16.46.15:798][159]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputMappingContext).
+[2023.11.22-16.46.30:731][921]LogContentBrowser: Attempting asset rename: NewInputMappingContext -> FightingInputMC
+[2023.11.22-16.46.30:731][921]LogContentBrowser: End creating deferred item NewInputMappingContext
+[2023.11.22-16.46.31:755][ 43]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Controls/FightingInputMC.FightingInputMC
+[2023.11.22-16.46.34:494][364]LogEditCondition: Error: EditCondition parsing failed: Field name "bIsPlayerBindable" was not found in class "EnhancedActionKeyMapping".
+[2023.11.22-16.46.36:136][559]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.11.22-16.47.04:340][929]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.11.22-16.47.31:226][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Controls/FightingInputMC" FILE="C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Controls/FightingInputMC.uasset" SILENT=true
+[2023.11.22-16.47.31:226][135]LogSavePackage: Moving output files for package: /Game/Controls/FightingInputMC
+[2023.11.22-16.47.31:226][135]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/FightingInputMC25E186FB49BB8D0EF033F6AC2ECFC279.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Controls/FightingInputMC.uasset'
+[2023.11.22-16.47.31:232][135]AssetCheck: New page: Asset Save: FightingInputMC
+[2023.11.22-16.47.31:232][135]LogContentValidation: Display: Validating InputMappingContext /Game/Controls/FightingInputMC.FightingInputMC
+[2023.11.22-16.47.32:332][265]LogSlate: Window 'FightingInputMC' being destroyed
+[2023.11.22-16.47.32:336][265]LogSlate: Window 'FightingInputMC' being destroyed
+[2023.11.22-16.47.37:940][929]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Player1_BP.Player1_BP
+[2023.11.22-16.47.37:940][929]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.22-16.47.38:546][929]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.11.22-16.47.38:578][930]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.11.22-16.49.34:823][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player1_BP" FILE="C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Blueprints/Player1_BP.uasset" SILENT=true
+[2023.11.22-16.49.34:827][329]LogSavePackage: Moving output files for package: /Game/Blueprints/Player1_BP
+[2023.11.22-16.49.34:828][329]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/Player1_BP6D128E6D4CD8C674F74DEAA80A864465.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Blueprints/Player1_BP.uasset'
+[2023.11.22-16.49.34:835][329]AssetCheck: New page: Asset Save: Player1_BP
+[2023.11.22-16.49.34:835][329]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player1_BP.Player1_BP
+[2023.11.22-16.53.19:466][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.11.22-16.53.19:467][644]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.025
+[2023.11.22-16.53.19:467][644]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player1_BP] ([2] browsable assets)...
+[2023.11.22-16.53.19:467][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player1_BP]
+[2023.11.22-16.53.19:471][644]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Player1_BP_Auto1
+[2023.11.22-16.53.19:471][644]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/Player1_BP_Auto16B164A7442F95D91AC51B081DC8DA2B7.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/Autosaves/Game/Blueprints/Player1_BP_Auto1.uasset'
+[2023.11.22-16.53.19:472][644]LogFileHelpers: Auto-saving content packages took 0.005
+[2023.11.22-16.54.34:520][676]BlueprintLog: New page: Compile Player1_BP
+[2023.11.22-16.54.34:553][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.11.22-16.54.35:024][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player1_BP" FILE="C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Blueprints/Player1_BP.uasset" SILENT=true
+[2023.11.22-16.54.35:029][726]LogSavePackage: Moving output files for package: /Game/Blueprints/Player1_BP
+[2023.11.22-16.54.35:029][726]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/Player1_BPF08333DB4B712CCA3B6480983E07A080.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Blueprints/Player1_BP.uasset'
+[2023.11.22-16.54.35:037][726]AssetCheck: New page: Asset Save: Player1_BP
+[2023.11.22-16.54.35:037][726]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player1_BP.Player1_BP
+[2023.11.22-16.54.39:661][154]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.22-16.54.39:671][154]LogWorldPartition: Display: GenerateStreaming started...
+[2023.11.22-16.54.39:671][154]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.11.22-16.54.39:671][154]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.11.22-16.54.39:671][154]LogWorldPartition: Display: ValidateSingleActorReferer took 3 us
+[2023.11.22-16.54.39:671][154]LogWorldPartition: Display: GetPartitionedActors took 42 us
+[2023.11.22-16.54.39:829][154]LogWorldPartition: Display: GenerateStreaming took 158 ms
+[2023.11.22-16.54.39:829][154]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.22-16.54.39:830][154]PIE: New page: PIE session: Untitled_1 (Nov. 22, 2023, 6:54:39 a.m.)
+[2023.11.22-16.54.39:833][154]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.11.22-16.54.39:833][154]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.11.22-16.54.39:833][154]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2023.11.22-16.54.39:886][154]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.11.22-16.54.39:888][154]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054959s)
+[2023.11.22-16.54.39:888][154]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.055012s)
+[2023.11.22-16.54.39:888][154]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.22-16.54.39:889][154]LogAIModule: Creating AISystem for world Untitled_1
+[2023.11.22-16.54.39:889][154]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.22-16.54.39:889][154]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.11.22-16.54.39:891][154]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2023.11.22-16.54.39:891][154]LogPlayLevel: PIE: World Init took: (0.003231s)
+[2023.11.22-16.54.39:908][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.11.22-16.54.39:910][154]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.11.22-16.54.39:910][154]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.22-16.54.39:910][154]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.22-16.54.39:910][154]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.22-16.54.39:910][154]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.22-16.54.39:910][154]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.22-16.54.39:910][154]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.22-16.54.39:910][154]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.22-16.54.39:910][154]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.22-16.54.39:910][154]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.22-16.54.39:910][154]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.22-16.54.39:910][154]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.22-16.54.39:912][154]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.22-16.54.39:923][154]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G635/G633s Gaming Headset)
+[2023.11.22-16.54.39:923][154]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.22-16.54.39:924][154]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.22-16.54.39:924][154]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.22-16.54.39:924][154]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.11.22-16.54.39:924][154]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=2
+[2023.11.22-16.54.39:925][154]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.11.22-16.54.39:925][154]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.11.22-16.54.39:925][154]LogInit: FAudioDevice initialized.
+[2023.11.22-16.54.39:925][154]LogAudio: Display: Audio Device (ID: 2) registered with world 'Untitled_1'.
+[2023.11.22-16.54.39:935][154]LogLoad: Game class is 'GameModeBase'
+[2023.11.22-16.54.39:937][154]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2023.11.22-11.54.39
+[2023.11.22-16.54.39:937][154]LogWorld: Bringing up level for play took: 0.001754
+[2023.11.22-16.54.39:938][154]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2023.11.22-16.54.39:948][154]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=0.000 Y=-281.000 Z=280.000
+[2023.11.22-16.54.39:949][154]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(21), CellsToLoad(0), CellsToUnload(0)
+[2023.11.22-16.54.39:949][154]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=0.000 Y=-281.000 Z=280.000,P=0.000000 Y=92.343262 R=-0.000000
+[2023.11.22-16.54.39:976][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_1QCGE91T5EQQ9UTKOHSCH9.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.22-16.54.39:976][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_ZAOOSF1CKGQO4P1Y7JY8UH.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.11.22-16.54.39:976][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_ZAOOSF1CKGQO4P1Y7JY8UH.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.11.22-16.54.39:976][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_MWFQ6J6HXYYLZAMU6I1R1J.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2023.11.22-16.54.39:976][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_MWFQ6J6HXYYLZAMU6I1R1J.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2023.11.22-16.54.39:976][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_MWFQ6J6HXYYLZAMU6I1R1J.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2023.11.22-16.54.39:976][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_MWFQ6J6HXYYLZAMU6I1R1J.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2023.11.22-16.54.39:976][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_MWFQ6J6HXYYLZAMU6I1R1J.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2023.11.22-16.54.39:976][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_MWFQ6J6HXYYLZAMU6I1R1J.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2023.11.22-16.54.39:976][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_TM27AJQTOQ55ONVEI0ECE1.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.22-16.54.39:976][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_3MA67PA3DFBCH9ZN7JQD7L.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.22-16.54.39:976][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_GB0G8OII70SZ6GD113L2XO.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.11.22-16.54.39:976][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_2G913CTPN0INB1KNCGJBF9.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2023.11.22-16.54.39:976][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_2G913CTPN0INB1KNCGJBF9.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2023.11.22-16.54.39:976][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_2G913CTPN0INB1KNCGJBF9.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2023.11.22-16.54.39:976][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_2G913CTPN0INB1KNCGJBF9.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2023.11.22-16.54.39:976][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_2G913CTPN0INB1KNCGJBF9.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2023.11.22-16.54.39:976][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_FGPS37X2Q4K1CSUMOT46VW.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.11.22-16.54.39:976][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_FGPS37X2Q4K1CSUMOT46VW.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.11.22-16.54.39:976][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_IFJ8LJV48IC5TH68CZLNHO.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.11.22-16.54.39:976][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_EHZ5KYG8N8BV9WYINAKOHR.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.11.22-16.54.39:976][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_EHZ5KYG8N8BV9WYINAKOHR.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2023.11.22-16.54.39:976][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_EHZ5KYG8N8BV9WYINAKOHR.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2023.11.22-16.54.39:976][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_XD4VCUJXDAR9W2NOY9DW31.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2023.11.22-16.54.39:976][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_T93WVF415WUK5Z5RZ5CSIN.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.11.22-16.54.39:976][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_T93WVF415WUK5Z5RZ5CSIN.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.11.22-16.54.39:976][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_4PTGN4PYG33KSYQWIO3LUD.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2023.11.22-16.54.39:976][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_4PTGN4PYG33KSYQWIO3LUD.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2023.11.22-16.54.39:976][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_4PTGN4PYG33KSYQWIO3LUD.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2023.11.22-16.54.39:976][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_4PTGN4PYG33KSYQWIO3LUD.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2023.11.22-16.54.39:976][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_4PTGN4PYG33KSYQWIO3LUD.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2023.11.22-16.54.39:976][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_4PTGN4PYG33KSYQWIO3LUD.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2023.11.22-16.54.39:976][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_5ZNW5G7MV8SB8U230NTMG6.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.11.22-16.54.39:977][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_ARRKV6YFZ975E3T6NELKAT.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.11.22-16.54.39:977][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_ARRKV6YFZ975E3T6NELKAT.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.11.22-16.54.39:977][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_D43LKCJAZBO2UYCSUCUWIS.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.11.22-16.54.39:977][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_78SSMDD2EDJ42ZXJLAZFHH.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.11.22-16.54.39:977][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_78SSMDD2EDJ42ZXJLAZFHH.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2023.11.22-16.54.39:977][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_213GHJR3VJKF8O6TBXNDVM.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.11.22-16.54.39:977][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_KUP2PAK5DP4JX85SMHKI2K.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2023.11.22-16.54.39:977][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_KUP2PAK5DP4JX85SMHKI2K.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2023.11.22-16.54.39:977][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_M0AB19DRPSE9MKYPZTVNP9.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2023.11.22-16.54.39:977][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_NQ0I2PYXTEQGM3LN814Z8O.StaticMesh_HLOD0_Instancing_10 being ready before playing
+[2023.11.22-16.54.39:977][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_NQ0I2PYXTEQGM3LN814Z8O.StaticMesh_HLOD0_Instancing_11 being ready before playing
+[2023.11.22-16.54.39:977][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_NQ0I2PYXTEQGM3LN814Z8O.StaticMesh_HLOD0_Instancing_12 being ready before playing
+[2023.11.22-16.54.39:977][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_NQ0I2PYXTEQGM3LN814Z8O.StaticMesh_HLOD0_Instancing_13 being ready before playing
+[2023.11.22-16.54.39:977][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_NQ0I2PYXTEQGM3LN814Z8O.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2023.11.22-16.54.39:977][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_NQ0I2PYXTEQGM3LN814Z8O.StaticMesh_HLOD0_Instancing_8 being ready before playing
+[2023.11.22-16.54.39:977][154]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_NQ0I2PYXTEQGM3LN814Z8O.StaticMesh_HLOD0_Instancing_9 being ready before playing
+[2023.11.22-16.54.39:986][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:986][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:986][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:986][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:986][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:987][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:987][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:987][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:987][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:987][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:987][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:987][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:987][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:987][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:987][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:987][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:987][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:987][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:987][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:987][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:987][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:987][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:987][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:987][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:987][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:987][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:987][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:987][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:987][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y0_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:987][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-2_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-2_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:987][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:987][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:987][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:987][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:987][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:987][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:987][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X-1_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:987][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:987][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X-1_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X-1_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:987][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X1_Y1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X1_Y1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:987][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:987][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:987][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:987][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:987][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:987][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L2_X0_Y-1_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:987][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:987][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0" parameter 'NormalTexture' assigned texture "HLOD0_OpenWorld_MainGrid_L1_X0_Y-2_DL0T_LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0_Normal" requires non-virtual texture
+[2023.11.22-16.54.39:987][154]LogMaterial: Error: MaterialInstance "M_HLOD0_OpenWorld_MainGrid_L0_X0_Y0_DL0LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0" parameter 'NormalTexture' assigned texture "BaseFlattenNormalMap_VT" requires non-virtual texture
+[2023.11.22-16.54.40:043][154]PIE: Server logged in
+[2023.11.22-16.54.40:044][154]PIE: Play in editor total start time 0.379 seconds.
+[2023.11.22-16.54.43:832][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.22-16.54.43:832][515]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2023.11.22-16.54.43:849][515]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2023.11.22-16.54.43:850][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.22-16.54.43:858][515]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.22-16.54.43:862][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.22-16.54.43:887][515]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.22-16.54.43:887][515]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.11.22-16.54.43:888][515]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.11.22-16.54.43:891][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.22-16.54.43:907][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.11.22-16.54.43:928][516]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2023.11.22-16.54.47:611][955]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/FightingGamemode.FightingGamemode
+[2023.11.22-16.54.47:612][955]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.22-16.54.49:764][175]LogSlate: Window 'FightingGamemode' being destroyed
+[2023.11.22-16.54.49:767][175]LogSlate: Window 'FightingGamemode' being destroyed
+[2023.11.22-16.54.49:770][175]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.11.22-16.54.49:771][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.22-16.54.49:800][175]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.11.22-16.54.49:800][175]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.11.22-16.54.49:800][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.22-16.54.52:898][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.11.22-16.54.52:933][536]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/FightingMap.FightingMap
+[2023.11.22-16.54.52:933][536]Cmd: MAP LOAD FILE="C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Maps/FightingMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.11.22-16.54.52:933][536]LightingResults: New page: Lighting Build
+[2023.11.22-16.54.52:933][536]LoadErrors: New page: Loading map: FightingMap.umap
+[2023.11.22-16.54.52:948][536]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2023.11.22-16.54.52:948][536]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.22-16.54.52:949][536]MapCheck: New page: Map Check
+[2023.11.22-16.54.52:949][536]LightingResults: New page: Lighting Build
+[2023.11.22-16.54.52:963][536]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.22-16.54.52:988][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.11.22-16.54.52:994][536]LogShaderCompilers: Display: ================================================
+[2023.11.22-16.54.52:994][536]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.22-16.54.52:994][536]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.11.22-16.54.52:994][536]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.11.22-16.54.52:994][536]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.11.22-16.54.52:994][536]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.22-16.54.52:994][536]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.11.22-16.54.52:994][536]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.11.22-16.54.52:994][536]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.11.22-16.54.52:994][536]LogShaderCompilers: Display: ================================================
+[2023.11.22-16.54.53:004][536]LogWorld: UWorld::CleanupWorld for FightingMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.22-16.54.53:004][536]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.22-16.54.53:018][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.11.22-16.54.53:032][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.11.22-16.54.53:036][536]LogAudio: Display: Audio Device (ID: 1) registered with world 'FightingMap'.
+[2023.11.22-16.54.53:036][536]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.11.22-16.54.53:036][536]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.22-16.54.53:036][536]LogAIModule: Creating AISystem for world FightingMap
+[2023.11.22-16.54.53:075][536]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.22-16.54.53:090][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.11.22-16.54.53:099][536]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.22-16.54.53:099][536]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.082ms to complete.
+[2023.11.22-16.54.53:099][536]LogFileHelpers: Loading map 'FightingMap' took 0.166
+[2023.11.22-16.54.55:226][763]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.22-16.54.55:230][763]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.22-16.54.55:230][763]PIE: New page: PIE session: FightingMap (Nov. 22, 2023, 6:54:55 a.m.)
+[2023.11.22-16.54.55:261][763]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FightingMap
+[2023.11.22-16.54.55:264][763]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002423s)
+[2023.11.22-16.54.55:264][763]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FightingMap.FightingMap to /Game/Maps/UEDPIE_0_FightingMap.FightingMap (0.002514s)
+[2023.11.22-16.54.55:264][763]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.11.22-16.54.55:264][763]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.22-16.54.55:264][763]LogAIModule: Creating AISystem for world FightingMap
+[2023.11.22-16.54.55:264][763]LogPlayLevel: PIE: World Init took: (0.000668s)
+[2023.11.22-16.54.55:284][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.11.22-16.54.55:287][763]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.11.22-16.54.55:287][763]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.22-16.54.55:287][763]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.22-16.54.55:287][763]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.22-16.54.55:287][763]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.22-16.54.55:287][763]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.22-16.54.55:287][763]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.22-16.54.55:287][763]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.22-16.54.55:287][763]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.22-16.54.55:287][763]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.22-16.54.55:287][763]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.22-16.54.55:287][763]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.22-16.54.55:289][763]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.22-16.54.55:300][763]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G635/G633s Gaming Headset)
+[2023.11.22-16.54.55:300][763]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.22-16.54.55:300][763]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.22-16.54.55:300][763]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.22-16.54.55:301][763]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.11.22-16.54.55:301][763]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=3
+[2023.11.22-16.54.55:302][763]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.11.22-16.54.55:302][763]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.11.22-16.54.55:302][763]LogInit: FAudioDevice initialized.
+[2023.11.22-16.54.55:302][763]LogAudio: Display: Audio Device (ID: 3) registered with world 'FightingMap'.
+[2023.11.22-16.54.55:310][763]LogLoad: Game class is 'FightingGamemode_C'
+[2023.11.22-16.54.55:311][763]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FightingMap.FightingMap up for play (max tick rate 0) at 2023.11.22-11.54.55
+[2023.11.22-16.54.55:311][763]LogWorld: Bringing up level for play took: 0.000471
+[2023.11.22-16.54.55:312][763]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2023.11.22-16.54.55:313][763]PIE: Server logged in
+[2023.11.22-16.54.55:314][763]PIE: Play in editor total start time 0.084 seconds.
+[2023.11.22-16.55.16:641][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.22-16.55.16:641][313]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FightingMap
+[2023.11.22-16.55.16:641][313]LogWorld: UWorld::CleanupWorld for FightingMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.22-16.55.16:641][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.22-16.55.16:647][313]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.22-16.55.16:650][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.22-16.55.16:666][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.22-16.55.16:666][313]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.11.22-16.55.16:667][313]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.11.22-16.55.16:671][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.11.22-16.55.16:720][317]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2023.11.22-16.55.26:855][530]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Player1_BP.Player1_BP
+[2023.11.22-16.55.26:855][530]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.22-16.57.39:259][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player1_BP" FILE="C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Blueprints/Player1_BP.uasset" SILENT=true
+[2023.11.22-16.57.39:263][891]LogSavePackage: Moving output files for package: /Game/Blueprints/Player1_BP
+[2023.11.22-16.57.39:264][891]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/Player1_BP528E37A043D0F15C93E19D861FDD53DB.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Blueprints/Player1_BP.uasset'
+[2023.11.22-16.57.39:274][891]AssetCheck: New page: Asset Save: Player1_BP
+[2023.11.22-16.57.39:274][891]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player1_BP.Player1_BP
+[2023.11.22-16.57.41:354][134]BlueprintLog: New page: Compile Player1_BP
+[2023.11.22-16.57.41:386][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.11.22-16.57.44:687][516]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.22-16.57.44:690][516]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.22-16.57.44:690][516]PIE: New page: PIE session: FightingMap (Nov. 22, 2023, 6:57:44 a.m.)
+[2023.11.22-16.57.44:711][516]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FightingMap
+[2023.11.22-16.57.44:712][516]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001182s)
+[2023.11.22-16.57.44:712][516]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FightingMap.FightingMap to /Game/Maps/UEDPIE_0_FightingMap.FightingMap (0.001253s)
+[2023.11.22-16.57.44:712][516]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.11.22-16.57.44:712][516]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.22-16.57.44:713][516]LogAIModule: Creating AISystem for world FightingMap
+[2023.11.22-16.57.44:713][516]LogPlayLevel: PIE: World Init took: (0.000655s)
+[2023.11.22-16.57.44:733][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.11.22-16.57.44:735][516]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.11.22-16.57.44:735][516]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.22-16.57.44:735][516]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.22-16.57.44:735][516]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.22-16.57.44:735][516]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.22-16.57.44:735][516]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.22-16.57.44:735][516]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.22-16.57.44:735][516]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.22-16.57.44:735][516]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.22-16.57.44:735][516]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.22-16.57.44:735][516]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.22-16.57.44:735][516]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.22-16.57.44:737][516]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.22-16.57.44:749][516]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G635/G633s Gaming Headset)
+[2023.11.22-16.57.44:749][516]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.22-16.57.44:749][516]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.22-16.57.44:749][516]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.22-16.57.44:750][516]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.11.22-16.57.44:750][516]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=4
+[2023.11.22-16.57.44:751][516]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.11.22-16.57.44:751][516]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.11.22-16.57.44:751][516]LogInit: FAudioDevice initialized.
+[2023.11.22-16.57.44:751][516]LogAudio: Display: Audio Device (ID: 4) registered with world 'FightingMap'.
+[2023.11.22-16.57.44:759][516]LogLoad: Game class is 'FightingGamemode_C'
+[2023.11.22-16.57.44:760][516]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FightingMap.FightingMap up for play (max tick rate 0) at 2023.11.22-11.57.44
+[2023.11.22-16.57.44:760][516]LogWorld: Bringing up level for play took: 0.000457
+[2023.11.22-16.57.44:761][516]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2023.11.22-16.57.44:762][516]PIE: Server logged in
+[2023.11.22-16.57.44:763][516]PIE: Play in editor total start time 0.073 seconds.
+[2023.11.22-16.57.50:182][158]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.22-16.57.50:182][158]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FightingMap
+[2023.11.22-16.57.50:183][158]LogWorld: UWorld::CleanupWorld for FightingMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.22-16.57.50:183][158]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.22-16.57.50:189][158]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.22-16.57.50:192][158]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.22-16.57.50:209][158]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.22-16.57.50:210][158]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.11.22-16.57.50:211][158]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.11.22-16.57.50:214][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.11.22-16.57.50:264][162]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2023.11.22-16.57.52:383][415]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Controls/FightingInputMC.FightingInputMC
+[2023.11.22-16.57.55:521][786]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Controls/Move_IA.Move_IA
+[2023.11.22-16.58.01:558][503]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.11.22-16.58.04:169][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Controls/Move_IA" FILE="C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Controls/Move_IA.uasset" SILENT=true
+[2023.11.22-16.58.04:170][804]LogSavePackage: Moving output files for package: /Game/Controls/Move_IA
+[2023.11.22-16.58.04:170][804]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/Move_IA6EF55F2D472B46849A1D958B3F0C0A87.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Controls/Move_IA.uasset'
+[2023.11.22-16.58.04:177][804]AssetCheck: New page: Asset Save: Move_IA
+[2023.11.22-16.58.04:177][804]LogContentValidation: Display: Validating InputAction /Game/Controls/Move_IA.Move_IA
+[2023.11.22-16.58.07:807][237]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.22-16.58.07:811][237]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.22-16.58.07:811][237]PIE: New page: PIE session: FightingMap (Nov. 22, 2023, 6:58:07 a.m.)
+[2023.11.22-16.58.07:832][237]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FightingMap
+[2023.11.22-16.58.07:833][237]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001139s)
+[2023.11.22-16.58.07:833][237]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FightingMap.FightingMap to /Game/Maps/UEDPIE_0_FightingMap.FightingMap (0.001213s)
+[2023.11.22-16.58.07:833][237]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.11.22-16.58.07:833][237]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.22-16.58.07:833][237]LogAIModule: Creating AISystem for world FightingMap
+[2023.11.22-16.58.07:834][237]LogPlayLevel: PIE: World Init took: (0.000599s)
+[2023.11.22-16.58.07:851][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.11.22-16.58.07:853][237]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.11.22-16.58.07:853][237]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.22-16.58.07:853][237]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.22-16.58.07:853][237]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.22-16.58.07:853][237]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.22-16.58.07:853][237]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.22-16.58.07:853][237]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.22-16.58.07:853][237]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.22-16.58.07:853][237]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.22-16.58.07:853][237]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.22-16.58.07:853][237]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.22-16.58.07:853][237]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.22-16.58.07:855][237]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.22-16.58.07:866][237]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G635/G633s Gaming Headset)
+[2023.11.22-16.58.07:866][237]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.22-16.58.07:867][237]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.22-16.58.07:867][237]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.22-16.58.07:867][237]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.11.22-16.58.07:867][237]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=5
+[2023.11.22-16.58.07:868][237]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.11.22-16.58.07:868][237]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.11.22-16.58.07:868][237]LogInit: FAudioDevice initialized.
+[2023.11.22-16.58.07:868][237]LogAudio: Display: Audio Device (ID: 5) registered with world 'FightingMap'.
+[2023.11.22-16.58.07:876][237]LogLoad: Game class is 'FightingGamemode_C'
+[2023.11.22-16.58.07:877][237]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FightingMap.FightingMap up for play (max tick rate 0) at 2023.11.22-11.58.07
+[2023.11.22-16.58.07:877][237]LogWorld: Bringing up level for play took: 0.000415
+[2023.11.22-16.58.07:878][237]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2023.11.22-16.58.07:879][237]PIE: Server logged in
+[2023.11.22-16.58.07:879][237]PIE: Play in editor total start time 0.069 seconds.
+[2023.11.22-16.58.10:831][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.22-16.58.10:831][582]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FightingMap
+[2023.11.22-16.58.10:832][582]LogWorld: UWorld::CleanupWorld for FightingMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.22-16.58.10:832][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.22-16.58.10:843][582]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.22-16.58.10:846][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.22-16.58.10:864][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.22-16.58.10:864][582]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.11.22-16.58.10:865][582]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.11.22-16.58.10:869][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.11.22-16.58.10:896][584]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.11.22-16.59.10:225][ 80]BlueprintLog: New page: Compile Player1_BP
+[2023.11.22-16.59.10:256][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.11.22-16.59.10:863][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player1_BP" FILE="C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Blueprints/Player1_BP.uasset" SILENT=true
+[2023.11.22-16.59.10:867][148]LogSavePackage: Moving output files for package: /Game/Blueprints/Player1_BP
+[2023.11.22-16.59.10:868][148]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/Player1_BPCC067EB0458393C056AD5CAFDA5EAB80.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Blueprints/Player1_BP.uasset'
+[2023.11.22-16.59.10:877][148]AssetCheck: New page: Asset Save: Player1_BP
+[2023.11.22-16.59.10:877][148]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player1_BP.Player1_BP
+[2023.11.22-16.59.15:033][622]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.22-16.59.15:037][622]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.22-16.59.15:037][622]PIE: New page: PIE session: FightingMap (Nov. 22, 2023, 6:59:15 a.m.)
+[2023.11.22-16.59.15:082][622]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FightingMap
+[2023.11.22-16.59.15:084][622]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002179s)
+[2023.11.22-16.59.15:084][622]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FightingMap.FightingMap to /Game/Maps/UEDPIE_0_FightingMap.FightingMap (0.002305s)
+[2023.11.22-16.59.15:084][622]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.11.22-16.59.15:084][622]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.22-16.59.15:084][622]LogAIModule: Creating AISystem for world FightingMap
+[2023.11.22-16.59.15:085][622]LogPlayLevel: PIE: World Init took: (0.000861s)
+[2023.11.22-16.59.15:108][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.11.22-16.59.15:109][622]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.11.22-16.59.15:109][622]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.22-16.59.15:109][622]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.22-16.59.15:109][622]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.22-16.59.15:109][622]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.22-16.59.15:109][622]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.22-16.59.15:109][622]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.22-16.59.15:109][622]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.22-16.59.15:109][622]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.22-16.59.15:109][622]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.22-16.59.15:109][622]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.22-16.59.15:109][622]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.22-16.59.15:111][622]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.22-16.59.15:122][622]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G635/G633s Gaming Headset)
+[2023.11.22-16.59.15:122][622]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.22-16.59.15:123][622]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.22-16.59.15:123][622]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.22-16.59.15:123][622]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.11.22-16.59.15:123][622]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=6
+[2023.11.22-16.59.15:124][622]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.11.22-16.59.15:124][622]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.11.22-16.59.15:124][622]LogInit: FAudioDevice initialized.
+[2023.11.22-16.59.15:124][622]LogAudio: Display: Audio Device (ID: 6) registered with world 'FightingMap'.
+[2023.11.22-16.59.15:132][622]LogLoad: Game class is 'FightingGamemode_C'
+[2023.11.22-16.59.15:133][622]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FightingMap.FightingMap up for play (max tick rate 0) at 2023.11.22-11.59.15
+[2023.11.22-16.59.15:133][622]LogWorld: Bringing up level for play took: 0.000414
+[2023.11.22-16.59.15:134][622]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2023.11.22-16.59.15:135][622]PIE: Server logged in
+[2023.11.22-16.59.15:135][622]PIE: Play in editor total start time 0.099 seconds.
+[2023.11.22-16.59.28:782][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.22-16.59.28:782][251]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FightingMap
+[2023.11.22-16.59.28:782][251]LogWorld: UWorld::CleanupWorld for FightingMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.22-16.59.28:782][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.22-16.59.28:794][251]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.22-16.59.28:796][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.22-16.59.28:815][251]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.22-16.59.28:815][251]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.11.22-16.59.28:816][251]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.11.22-16.59.28:818][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.22-16.59.28:820][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.11.22-16.59.28:861][254]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.11.22-16.59.33:852][850]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.11.22-16.59.34:805][963]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.22-16.59.34:809][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.22-16.59.34:809][963]PIE: New page: PIE session: FightingMap (Nov. 22, 2023, 6:59:34 a.m.)
+[2023.11.22-16.59.34:832][963]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FightingMap
+[2023.11.22-16.59.34:833][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001097s)
+[2023.11.22-16.59.34:833][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FightingMap.FightingMap to /Game/Maps/UEDPIE_0_FightingMap.FightingMap (0.001157s)
+[2023.11.22-16.59.34:833][963]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.11.22-16.59.34:833][963]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.22-16.59.34:834][963]LogAIModule: Creating AISystem for world FightingMap
+[2023.11.22-16.59.34:834][963]LogPlayLevel: PIE: World Init took: (0.000533s)
+[2023.11.22-16.59.34:853][963]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.11.22-16.59.34:854][963]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.11.22-16.59.34:854][963]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.22-16.59.34:854][963]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.22-16.59.34:854][963]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.22-16.59.34:854][963]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.22-16.59.34:854][963]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.22-16.59.34:854][963]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.22-16.59.34:854][963]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.22-16.59.34:854][963]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.22-16.59.34:854][963]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.22-16.59.34:854][963]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.22-16.59.34:854][963]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.22-16.59.34:856][963]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.22-16.59.34:867][963]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G635/G633s Gaming Headset)
+[2023.11.22-16.59.34:867][963]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.22-16.59.34:867][963]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.22-16.59.34:867][963]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.22-16.59.34:868][963]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.11.22-16.59.34:868][963]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=7
+[2023.11.22-16.59.34:869][963]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.11.22-16.59.34:869][963]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.11.22-16.59.34:869][963]LogInit: FAudioDevice initialized.
+[2023.11.22-16.59.34:869][963]LogAudio: Display: Audio Device (ID: 7) registered with world 'FightingMap'.
+[2023.11.22-16.59.34:881][963]LogLoad: Game class is 'FightingGamemode_C'
+[2023.11.22-16.59.34:881][963]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FightingMap.FightingMap up for play (max tick rate 0) at 2023.11.22-11.59.34
+[2023.11.22-16.59.34:881][963]LogWorld: Bringing up level for play took: 0.000396
+[2023.11.22-16.59.34:882][963]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2023.11.22-16.59.34:883][963]PIE: Server logged in
+[2023.11.22-16.59.34:884][963]PIE: Play in editor total start time 0.074 seconds.
+[2023.11.22-16.59.39:642][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.22-16.59.39:642][527]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FightingMap
+[2023.11.22-16.59.39:642][527]LogWorld: UWorld::CleanupWorld for FightingMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.22-16.59.39:642][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.22-16.59.39:651][527]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.22-16.59.39:653][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.22-16.59.39:671][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.22-16.59.39:671][527]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.11.22-16.59.39:672][527]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.11.22-16.59.39:676][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.11.22-16.59.39:726][532]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2023.11.22-17.00.40:514][179]LogAssetEditorSubsystem: Opening Asset editor for PaperZDAnimBP /Game/Animations/Player1Animation_BP.Player1Animation_BP
+[2023.11.22-17.00.40:515][179]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.22-17.02.06:122][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Player1Animation_BP" FILE="C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Animations/Player1Animation_BP.uasset" SILENT=true
+[2023.11.22-17.02.06:126][860]LogSavePackage: Moving output files for package: /Game/Animations/Player1Animation_BP
+[2023.11.22-17.02.06:127][860]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/Player1Animation_BP437610164E1B23ED1A21CDAEBE2D776D.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Animations/Player1Animation_BP.uasset'
+[2023.11.22-17.02.06:134][860]AssetCheck: New page: Asset Save: Player1Animation_BP
+[2023.11.22-17.02.06:134][860]LogContentValidation: Display: Validating PaperZDAnimBP /Game/Animations/Player1Animation_BP.Player1Animation_BP
+[2023.11.22-17.04.13:489][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Player1Animation_BP" FILE="C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Animations/Player1Animation_BP.uasset" SILENT=true
+[2023.11.22-17.04.13:496][ 60]LogSavePackage: Moving output files for package: /Game/Animations/Player1Animation_BP
+[2023.11.22-17.04.13:496][ 60]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/Player1Animation_BPB6FB61E24BA6A840F526BB9ACBF2286B.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Animations/Player1Animation_BP.uasset'
+[2023.11.22-17.04.13:507][ 60]AssetCheck: New page: Asset Save: Player1Animation_BP
+[2023.11.22-17.04.13:507][ 60]LogContentValidation: Display: Validating PaperZDAnimBP /Game/Animations/Player1Animation_BP.Player1Animation_BP
+[2023.11.22-17.05.06:454][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Player1Animation_BP" FILE="C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Animations/Player1Animation_BP.uasset" SILENT=true
+[2023.11.22-17.05.06:460][294]LogSavePackage: Moving output files for package: /Game/Animations/Player1Animation_BP
+[2023.11.22-17.05.06:460][294]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/Player1Animation_BPCFC66EF845CC49738229C4815A94BABC.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Animations/Player1Animation_BP.uasset'
+[2023.11.22-17.05.06:468][294]AssetCheck: New page: Asset Save: Player1Animation_BP
+[2023.11.22-17.05.06:468][294]LogContentValidation: Display: Validating PaperZDAnimBP /Game/Animations/Player1Animation_BP.Player1Animation_BP
+[2023.11.22-17.05.28:906][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Player1Animation_BP" FILE="C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Animations/Player1Animation_BP.uasset" SILENT=true
+[2023.11.22-17.05.28:913][923]LogSavePackage: Moving output files for package: /Game/Animations/Player1Animation_BP
+[2023.11.22-17.05.28:913][923]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/Player1Animation_BPB037C02F49844FDB8962B997A05C6E8B.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Animations/Player1Animation_BP.uasset'
+[2023.11.22-17.05.28:922][923]AssetCheck: New page: Asset Save: Player1Animation_BP
+[2023.11.22-17.05.28:922][923]LogContentValidation: Display: Validating PaperZDAnimBP /Game/Animations/Player1Animation_BP.Player1Animation_BP
+[2023.11.22-17.05.56:920][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Player1Animation_BP" FILE="C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Animations/Player1Animation_BP.uasset" SILENT=true
+[2023.11.22-17.05.56:927][187]LogSavePackage: Moving output files for package: /Game/Animations/Player1Animation_BP
+[2023.11.22-17.05.56:927][187]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/Player1Animation_BPE6718CB24C03F4E33156669FA3B11A4C.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Animations/Player1Animation_BP.uasset'
+[2023.11.22-17.05.56:937][187]AssetCheck: New page: Asset Save: Player1Animation_BP
+[2023.11.22-17.05.56:937][187]LogContentValidation: Display: Validating PaperZDAnimBP /Game/Animations/Player1Animation_BP.Player1Animation_BP
+[2023.11.22-17.06.09:899][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Player1Animation_BP" FILE="C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Animations/Player1Animation_BP.uasset" SILENT=true
+[2023.11.22-17.06.09:907][683]LogSavePackage: Moving output files for package: /Game/Animations/Player1Animation_BP
+[2023.11.22-17.06.09:907][683]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/Player1Animation_BP9425DF4B409C9B2430282CA37C41FF97.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Animations/Player1Animation_BP.uasset'
+[2023.11.22-17.06.09:916][683]AssetCheck: New page: Asset Save: Player1Animation_BP
+[2023.11.22-17.06.09:916][683]LogContentValidation: Display: Validating PaperZDAnimBP /Game/Animations/Player1Animation_BP.Player1Animation_BP
+[2023.11.22-17.06.17:915][619]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2023.11.22-17.06.17:918][619]LogContentBrowser: Creating deferred item: NewInputAction
+[2023.11.22-17.06.17:924][620]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2023.11.22-17.06.22:792][202]LogContentBrowser: Attempting asset rename: NewInputAction -> Jump_IA
+[2023.11.22-17.06.22:794][202]LogContentBrowser: End creating deferred item NewInputAction
+[2023.11.22-17.06.24:394][394]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Controls/Jump_IA.Jump_IA
+[2023.11.22-17.06.42:892][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Controls/FightingInputMC" FILE="C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Controls/FightingInputMC.uasset" SILENT=true
+[2023.11.22-17.06.42:893][578]LogSavePackage: Moving output files for package: /Game/Controls/FightingInputMC
+[2023.11.22-17.06.42:893][578]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/FightingInputMC4C694AE144CAEF38FE7DF49B5447FBAA.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Controls/FightingInputMC.uasset'
+[2023.11.22-17.06.42:905][578]AssetCheck: New page: Asset Save: FightingInputMC
+[2023.11.22-17.06.42:905][578]LogContentValidation: Display: Validating InputMappingContext /Game/Controls/FightingInputMC.FightingInputMC
+[2023.11.22-17.08.17:600][912]BlueprintLog: New page: Compile Player1_BP
+[2023.11.22-17.08.17:641][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.11.22-17.08.19:370][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player1_BP" FILE="C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Blueprints/Player1_BP.uasset" SILENT=true
+[2023.11.22-17.08.19:375][ 84]LogSavePackage: Moving output files for package: /Game/Blueprints/Player1_BP
+[2023.11.22-17.08.19:375][ 84]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/Player1_BPA6D1F3E742C90F03619B339DA14DA859.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Blueprints/Player1_BP.uasset'
+[2023.11.22-17.08.19:383][ 84]AssetCheck: New page: Asset Save: Player1_BP
+[2023.11.22-17.08.19:383][ 84]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player1_BP.Player1_BP
+[2023.11.22-17.08.21:761][360]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.22-17.08.21:764][360]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.22-17.08.21:765][360]LogPlayLevel: [PlayLevel] Compiling Player1Animation_BP before play...
+[2023.11.22-17.08.21:795][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.11.22-17.08.21:797][360]LogPlayLevel: PlayLevel: Blueprint regeneration took 32 ms (1 blueprints)
+[2023.11.22-17.08.21:797][360]PIE: New page: PIE session: FightingMap (Nov. 22, 2023, 7:08:21 a.m.)
+[2023.11.22-17.08.21:797][360]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FightingMap
+[2023.11.22-17.08.21:798][360]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001137s)
+[2023.11.22-17.08.21:798][360]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FightingMap.FightingMap to /Game/Maps/UEDPIE_0_FightingMap.FightingMap (0.001180s)
+[2023.11.22-17.08.21:798][360]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.11.22-17.08.21:798][360]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.22-17.08.21:799][360]LogAIModule: Creating AISystem for world FightingMap
+[2023.11.22-17.08.21:799][360]LogPlayLevel: PIE: World Init took: (0.000577s)
+[2023.11.22-17.08.21:822][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.11.22-17.08.21:822][360]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.11.22-17.08.21:822][360]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.22-17.08.21:822][360]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.22-17.08.21:822][360]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.22-17.08.21:822][360]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.22-17.08.21:822][360]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.22-17.08.21:822][360]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.22-17.08.21:822][360]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.22-17.08.21:822][360]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.22-17.08.21:823][360]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.22-17.08.21:823][360]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.22-17.08.21:823][360]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.22-17.08.21:824][360]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.22-17.08.21:836][360]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G635/G633s Gaming Headset)
+[2023.11.22-17.08.21:836][360]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.22-17.08.21:836][360]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.22-17.08.21:836][360]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.22-17.08.21:837][360]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.11.22-17.08.21:837][360]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=8
+[2023.11.22-17.08.21:838][360]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.11.22-17.08.21:838][360]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.11.22-17.08.21:838][360]LogInit: FAudioDevice initialized.
+[2023.11.22-17.08.21:838][360]LogAudio: Display: Audio Device (ID: 8) registered with world 'FightingMap'.
+[2023.11.22-17.08.21:845][360]LogLoad: Game class is 'FightingGamemode_C'
+[2023.11.22-17.08.21:845][360]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FightingMap.FightingMap up for play (max tick rate 0) at 2023.11.22-12.08.21
+[2023.11.22-17.08.21:846][360]LogWorld: Bringing up level for play took: 0.000426
+[2023.11.22-17.08.21:847][360]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2023.11.22-17.08.21:848][360]PIE: Server logged in
+[2023.11.22-17.08.21:848][360]PIE: Play in editor total start time 0.084 seconds.
+[2023.11.22-17.08.31:093][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.22-17.08.31:093][456]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FightingMap
+[2023.11.22-17.08.31:093][456]LogWorld: UWorld::CleanupWorld for FightingMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.22-17.08.31:093][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.22-17.08.31:101][456]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.22-17.08.31:103][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.22-17.08.31:124][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.22-17.08.31:124][456]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.11.22-17.08.31:126][456]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.11.22-17.08.31:129][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.11.22-17.08.31:163][458]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.11.22-17.09.19:461][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.11.22-17.09.19:468][510]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/FightingMap_Auto2
+[2023.11.22-17.09.19:468][510]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/FightingMap_Auto271AC9DD94D95577EB80A1C8414AA4879.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/Autosaves/Game/Maps/FightingMap_Auto2.umap'
+[2023.11.22-17.09.19:476][510]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/FightingMap' took 0.044
+[2023.11.22-17.09.19:476][510]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.044
+[2023.11.22-17.10.55:918][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Controls/Jump_IA" FILE="C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Controls/Jump_IA.uasset" SILENT=true
+[2023.11.22-17.10.55:919][ 81]LogSavePackage: Moving output files for package: /Game/Controls/Jump_IA
+[2023.11.22-17.10.55:919][ 81]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/Jump_IA7BA418F64FB01E2C9EC0F6BECE7EF6A5.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Controls/Jump_IA.uasset'
+[2023.11.22-17.10.55:926][ 81]AssetCheck: New page: Asset Save: Jump_IA
+[2023.11.22-17.10.55:926][ 81]LogContentValidation: Display: Validating InputAction /Game/Controls/Jump_IA.Jump_IA
+[2023.11.22-17.11.44:489][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Controls/Move_IA" FILE="C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Controls/Move_IA.uasset" SILENT=true
+[2023.11.22-17.11.44:489][875]LogSavePackage: Moving output files for package: /Game/Controls/Move_IA
+[2023.11.22-17.11.44:489][875]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/Move_IA819E9EAA45F8A5C264E1CC97A7075A43.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Controls/Move_IA.uasset'
+[2023.11.22-17.11.44:498][875]AssetCheck: New page: Asset Save: Move_IA
+[2023.11.22-17.11.44:498][875]LogContentValidation: Display: Validating InputAction /Game/Controls/Move_IA.Move_IA
+[2023.11.22-17.11.48:410][338]BlueprintLog: New page: Compile Player1_BP
+[2023.11.22-17.11.48:445][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.11.22-17.11.52:228][785]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.22-17.11.52:232][785]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.22-17.11.52:232][785]PIE: New page: PIE session: FightingMap (Nov. 22, 2023, 7:11:52 a.m.)
+[2023.11.22-17.11.52:262][785]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FightingMap
+[2023.11.22-17.11.52:263][785]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001228s)
+[2023.11.22-17.11.52:263][785]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FightingMap.FightingMap to /Game/Maps/UEDPIE_0_FightingMap.FightingMap (0.001319s)
+[2023.11.22-17.11.52:263][785]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.11.22-17.11.52:263][785]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.22-17.11.52:264][785]LogAIModule: Creating AISystem for world FightingMap
+[2023.11.22-17.11.52:264][785]LogPlayLevel: PIE: World Init took: (0.000634s)
+[2023.11.22-17.11.52:286][785]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.11.22-17.11.52:288][785]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.11.22-17.11.52:288][785]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.22-17.11.52:288][785]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.22-17.11.52:288][785]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.22-17.11.52:288][785]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.22-17.11.52:288][785]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.22-17.11.52:288][785]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.22-17.11.52:288][785]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.22-17.11.52:288][785]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.22-17.11.52:288][785]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.22-17.11.52:288][785]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.22-17.11.52:288][785]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.22-17.11.52:290][785]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.22-17.11.52:302][785]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G635/G633s Gaming Headset)
+[2023.11.22-17.11.52:302][785]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.22-17.11.52:302][785]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.22-17.11.52:302][785]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.22-17.11.52:303][785]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.11.22-17.11.52:303][785]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=9
+[2023.11.22-17.11.52:304][785]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.11.22-17.11.52:304][785]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.11.22-17.11.52:304][785]LogInit: FAudioDevice initialized.
+[2023.11.22-17.11.52:304][785]LogAudio: Display: Audio Device (ID: 9) registered with world 'FightingMap'.
+[2023.11.22-17.11.52:316][785]LogLoad: Game class is 'FightingGamemode_C'
+[2023.11.22-17.11.52:316][785]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FightingMap.FightingMap up for play (max tick rate 0) at 2023.11.22-12.11.52
+[2023.11.22-17.11.52:316][785]LogWorld: Bringing up level for play took: 0.000425
+[2023.11.22-17.11.52:317][785]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2023.11.22-17.11.52:318][785]PIE: Server logged in
+[2023.11.22-17.11.52:319][785]PIE: Play in editor total start time 0.088 seconds.
+[2023.11.22-17.12.08:942][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.22-17.12.08:942][770]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FightingMap
+[2023.11.22-17.12.08:942][770]LogWorld: UWorld::CleanupWorld for FightingMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.22-17.12.08:943][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.22-17.12.08:951][770]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.22-17.12.08:954][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.22-17.12.08:974][770]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.22-17.12.08:975][770]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.11.22-17.12.08:976][770]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.11.22-17.12.08:978][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.22-17.12.08:980][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.11.22-17.12.09:013][772]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.11.22-17.12.22:139][333]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.11.22-17.12.22:139][333]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.11.22-17.12.22:716][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.11.22-17.12.25:708][399]LogSlate: Window 'Delete Assets' being destroyed
+[2023.11.22-17.12.25:810][399]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.11.22-17.12.25:810][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.22-17.12.25:857][399]LogSlate: Window 'Player1Animation_BP' being destroyed
+[2023.11.22-17.12.25:861][399]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.11.22-17.12.25:861][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.22-17.12.25:883][399]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/Controls/FightingInputMC.FightingInputMC
+	Asset Type: InputMappingContext
+	Asset Name: /Game/Controls/Jump_IA.Jump_IA
+	Asset Type: InputAction
+	Asset Name: /Game/Controls/Move_IA.Move_IA
+	Asset Type: InputAction
+[2023.11.22-17.12.26:057][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.11.22-17.12.26:079][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.11.22-17.12.26:092][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.11.22-17.12.29:468][783]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Player1_BP.Player1_BP
+[2023.11.22-17.12.29:469][783]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.22-17.14.08:300][ 97]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.11.22-17.14.08:349][ 97]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2023.11.22-17.15.46:359][859]LogSlate: Window 'Project Settings' being destroyed
+[2023.11.22-17.15.46:362][859]LogSlate: Window 'Project Settings' being destroyed
+[2023.11.22-17.18.47:015][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player1_BP" FILE="C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Blueprints/Player1_BP.uasset" SILENT=true
+[2023.11.22-17.18.47:018][648]LogSavePackage: Moving output files for package: /Game/Blueprints/Player1_BP
+[2023.11.22-17.18.47:019][648]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/Player1_BPCD883B694E190D2CC831B69101E00AD2.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Blueprints/Player1_BP.uasset'
+[2023.11.22-17.18.47:029][648]AssetCheck: New page: Asset Save: Player1_BP
+[2023.11.22-17.18.47:029][648]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player1_BP.Player1_BP
+[2023.11.22-17.18.49:392][925]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.22-17.18.49:396][925]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.22-17.18.49:396][925]LogPlayLevel: [PlayLevel] Compiling Player1_BP before play...
+[2023.11.22-17.18.49:435][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.11.22-17.18.49:438][925]LogPlayLevel: PlayLevel: Blueprint regeneration took 42 ms (1 blueprints)
+[2023.11.22-17.18.49:438][925]PIE: New page: PIE session: FightingMap (Nov. 22, 2023, 7:18:49 a.m.)
+[2023.11.22-17.18.49:482][925]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FightingMap
+[2023.11.22-17.18.49:483][925]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001204s)
+[2023.11.22-17.18.49:483][925]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FightingMap.FightingMap to /Game/Maps/UEDPIE_0_FightingMap.FightingMap (0.001306s)
+[2023.11.22-17.18.49:483][925]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.11.22-17.18.49:483][925]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.22-17.18.49:483][925]LogAIModule: Creating AISystem for world FightingMap
+[2023.11.22-17.18.49:483][925]LogPlayLevel: PIE: World Init took: (0.000620s)
+[2023.11.22-17.18.49:502][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.11.22-17.18.49:503][925]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.11.22-17.18.49:503][925]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.22-17.18.49:503][925]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.22-17.18.49:503][925]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.22-17.18.49:503][925]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.22-17.18.49:503][925]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.22-17.18.49:503][925]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.22-17.18.49:503][925]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.22-17.18.49:503][925]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.22-17.18.49:503][925]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.22-17.18.49:503][925]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.22-17.18.49:503][925]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.22-17.18.49:505][925]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.22-17.18.49:517][925]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G635/G633s Gaming Headset)
+[2023.11.22-17.18.49:517][925]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.22-17.18.49:517][925]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.22-17.18.49:517][925]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.22-17.18.49:518][925]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.11.22-17.18.49:518][925]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=10
+[2023.11.22-17.18.49:519][925]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.11.22-17.18.49:519][925]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.11.22-17.18.49:519][925]LogInit: FAudioDevice initialized.
+[2023.11.22-17.18.49:519][925]LogAudio: Display: Audio Device (ID: 10) registered with world 'FightingMap'.
+[2023.11.22-17.18.49:531][925]LogLoad: Game class is 'FightingGamemode_C'
+[2023.11.22-17.18.49:532][925]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FightingMap.FightingMap up for play (max tick rate 0) at 2023.11.22-12.18.49
+[2023.11.22-17.18.49:532][925]LogWorld: Bringing up level for play took: 0.000501
+[2023.11.22-17.18.49:533][925]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2023.11.22-17.18.49:534][925]PIE: Server logged in
+[2023.11.22-17.18.49:535][925]PIE: Play in editor total start time 0.139 seconds.
+[2023.11.22-17.19.00:203][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.22-17.19.00:203][194]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FightingMap
+[2023.11.22-17.19.00:203][194]LogWorld: UWorld::CleanupWorld for FightingMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.22-17.19.00:203][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.22-17.19.00:217][194]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.22-17.19.00:219][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.22-17.19.00:239][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.22-17.19.00:239][194]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.11.22-17.19.00:240][194]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.11.22-17.19.00:255][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.11.22-17.19.00:281][195]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.11.22-17.20.30:869][248]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.22-17.20.30:872][248]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.22-17.20.30:873][248]LogPlayLevel: [PlayLevel] Compiling Player1_BP before play...
+[2023.11.22-17.20.30:917][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.11.22-17.20.30:919][248]LogPlayLevel: PlayLevel: Blueprint regeneration took 47 ms (1 blueprints)
+[2023.11.22-17.20.30:919][248]PIE: New page: PIE session: FightingMap (Nov. 22, 2023, 7:20:30 a.m.)
+[2023.11.22-17.20.30:942][248]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FightingMap
+[2023.11.22-17.20.30:943][248]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001178s)
+[2023.11.22-17.20.30:943][248]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FightingMap.FightingMap to /Game/Maps/UEDPIE_0_FightingMap.FightingMap (0.001245s)
+[2023.11.22-17.20.30:943][248]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.11.22-17.20.30:943][248]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.22-17.20.30:944][248]LogAIModule: Creating AISystem for world FightingMap
+[2023.11.22-17.20.30:944][248]LogPlayLevel: PIE: World Init took: (0.000644s)
+[2023.11.22-17.20.30:964][248]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.11.22-17.20.30:964][248]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.11.22-17.20.30:964][248]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.22-17.20.30:964][248]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.22-17.20.30:964][248]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.22-17.20.30:964][248]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.22-17.20.30:964][248]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.22-17.20.30:964][248]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.22-17.20.30:964][248]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.22-17.20.30:964][248]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.22-17.20.30:965][248]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.22-17.20.30:965][248]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.22-17.20.30:965][248]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.22-17.20.30:966][248]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.22-17.20.30:978][248]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G635/G633s Gaming Headset)
+[2023.11.22-17.20.30:978][248]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.22-17.20.30:978][248]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.22-17.20.30:978][248]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.22-17.20.30:979][248]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.11.22-17.20.30:979][248]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=11
+[2023.11.22-17.20.30:980][248]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.11.22-17.20.30:980][248]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.11.22-17.20.30:980][248]LogInit: FAudioDevice initialized.
+[2023.11.22-17.20.30:980][248]LogAudio: Display: Audio Device (ID: 11) registered with world 'FightingMap'.
+[2023.11.22-17.20.30:991][248]LogLoad: Game class is 'FightingGamemode_C'
+[2023.11.22-17.20.30:991][248]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FightingMap.FightingMap up for play (max tick rate 0) at 2023.11.22-12.20.30
+[2023.11.22-17.20.30:991][248]LogWorld: Bringing up level for play took: 0.000427
+[2023.11.22-17.20.30:992][248]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2023.11.22-17.20.30:993][248]PIE: Server logged in
+[2023.11.22-17.20.30:994][248]PIE: Play in editor total start time 0.122 seconds.
+[2023.11.22-17.21.03:573][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.22-17.21.03:573][145]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FightingMap
+[2023.11.22-17.21.03:573][145]LogWorld: UWorld::CleanupWorld for FightingMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.22-17.21.03:574][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.22-17.21.03:579][145]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.22-17.21.03:582][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.22-17.21.03:600][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.22-17.21.03:600][145]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.11.22-17.21.03:601][145]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.11.22-17.21.03:605][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.11.22-17.21.03:645][147]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.11.22-17.21.23:508][499]BlueprintLog: New page: Compile Player1_BP
+[2023.11.22-17.21.23:537][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.11.22-17.21.23:926][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player1_BP" FILE="C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Blueprints/Player1_BP.uasset" SILENT=true
+[2023.11.22-17.21.23:929][538]LogSavePackage: Moving output files for package: /Game/Blueprints/Player1_BP
+[2023.11.22-17.21.23:929][538]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/Player1_BP0570972A4F99C2B17FC796ACDE3FF546.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Blueprints/Player1_BP.uasset'
+[2023.11.22-17.21.23:938][538]AssetCheck: New page: Asset Save: Player1_BP
+[2023.11.22-17.21.23:938][538]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player1_BP.Player1_BP
+[2023.11.22-17.21.25:662][738]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.22-17.21.25:665][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.22-17.21.25:665][738]PIE: New page: PIE session: FightingMap (Nov. 22, 2023, 7:21:25 a.m.)
+[2023.11.22-17.21.25:703][738]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FightingMap
+[2023.11.22-17.21.25:704][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001574s)
+[2023.11.22-17.21.25:704][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FightingMap.FightingMap to /Game/Maps/UEDPIE_0_FightingMap.FightingMap (0.001670s)
+[2023.11.22-17.21.25:704][738]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.11.22-17.21.25:704][738]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.22-17.21.25:705][738]LogAIModule: Creating AISystem for world FightingMap
+[2023.11.22-17.21.25:705][738]LogPlayLevel: PIE: World Init took: (0.000766s)
+[2023.11.22-17.21.25:730][738]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.11.22-17.21.25:732][738]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.11.22-17.21.25:732][738]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.22-17.21.25:732][738]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.22-17.21.25:732][738]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.22-17.21.25:732][738]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.22-17.21.25:732][738]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.22-17.21.25:732][738]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.22-17.21.25:732][738]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.22-17.21.25:732][738]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.22-17.21.25:733][738]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.22-17.21.25:733][738]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.22-17.21.25:733][738]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.22-17.21.25:734][738]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.22-17.21.25:746][738]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G635/G633s Gaming Headset)
+[2023.11.22-17.21.25:746][738]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.22-17.21.25:746][738]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.22-17.21.25:746][738]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.22-17.21.25:746][738]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.11.22-17.21.25:746][738]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=12
+[2023.11.22-17.21.25:747][738]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.11.22-17.21.25:747][738]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.11.22-17.21.25:747][738]LogInit: FAudioDevice initialized.
+[2023.11.22-17.21.25:747][738]LogAudio: Display: Audio Device (ID: 12) registered with world 'FightingMap'.
+[2023.11.22-17.21.25:757][738]LogLoad: Game class is 'FightingGamemode_C'
+[2023.11.22-17.21.25:757][738]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FightingMap.FightingMap up for play (max tick rate 0) at 2023.11.22-12.21.25
+[2023.11.22-17.21.25:757][738]LogWorld: Bringing up level for play took: 0.000406
+[2023.11.22-17.21.25:758][738]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2023.11.22-17.21.25:759][738]PIE: Server logged in
+[2023.11.22-17.21.25:760][738]PIE: Play in editor total start time 0.094 seconds.
+[2023.11.22-17.21.52:432][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.22-17.21.52:432][626]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FightingMap
+[2023.11.22-17.21.52:432][626]LogWorld: UWorld::CleanupWorld for FightingMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.22-17.21.52:432][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.22-17.21.52:438][626]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.22-17.21.52:441][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.22-17.21.52:459][626]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.22-17.21.52:460][626]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.11.22-17.21.52:461][626]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.11.22-17.21.52:463][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.22-17.21.52:464][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.11.22-17.21.52:532][630]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.11.22-17.22.19:347][763]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.CameraActor
+[2023.11.22-17.22.19:347][763]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.CameraActor
+[2023.11.22-17.22.19:348][763]LogActorFactory: Actor Factory spawned Class /Script/Engine.CameraActor as actor: CameraActor /Game/Maps/FightingMap.FightingMap:PersistentLevel.CameraActor_0
+[2023.11.22-17.22.19:348][763]LogActorFactory: Actor Factory spawned Class /Script/Engine.CameraActor as actor: CameraActor /Game/Maps/FightingMap.FightingMap:PersistentLevel.CameraActor_0
+[2023.11.22-17.22.19:507][764]LogViewport: Scene viewport resized to 328x185, mode Windowed.
+[2023.11.22-17.22.31:454][ 90]LogViewport: Scene viewport resized to 328x185, mode Windowed.
+[2023.11.22-17.23.34:718][514]LogViewport: Scene viewport resized to 328x185, mode Windowed.
+[2023.11.22-17.24.35:730][838]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/FightingMap.FightingMap:PersistentLevel.FightingMap
+[2023.11.22-17.24.35:730][838]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.22-17.25.18:616][663]BlueprintLog: New page: Compile FightingMap
+[2023.11.22-17.25.18:650][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.11.22-17.25.19:189][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FightingMap" FILE="C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Maps/FightingMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.22-17.25.19:210][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.11.22-17.25.19:217][719]LogSavePackage: Moving output files for package: /Game/Maps/FightingMap
+[2023.11.22-17.25.19:217][719]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/FightingMapB51BC5EF40F3E9AA42153B9C4B029299.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Maps/FightingMap.umap'
+[2023.11.22-17.25.19:227][719]LogFileHelpers: No new changes to save!
+[2023.11.22-17.25.19:227][719]LogFileHelpers: Saving map 'FightingMap' took 0.039
+[2023.11.22-17.25.19:235][719]AssetCheck: New page: Asset Save: FightingMap
+[2023.11.22-17.25.19:235][719]LogContentValidation: Display: Validating World /Game/Maps/FightingMap.FightingMap
+[2023.11.22-17.25.21:866][ 24]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.22-17.25.21:870][ 24]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.22-17.25.21:870][ 24]PIE: New page: PIE session: FightingMap (Nov. 22, 2023, 7:25:21 a.m.)
+[2023.11.22-17.25.21:870][ 24]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FightingMap
+[2023.11.22-17.25.21:872][ 24]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001506s)
+[2023.11.22-17.25.21:872][ 24]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FightingMap.FightingMap to /Game/Maps/UEDPIE_0_FightingMap.FightingMap (0.001553s)
+[2023.11.22-17.25.21:872][ 24]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.11.22-17.25.21:872][ 24]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.22-17.25.21:872][ 24]LogAIModule: Creating AISystem for world FightingMap
+[2023.11.22-17.25.21:872][ 24]LogPlayLevel: PIE: World Init took: (0.000574s)
+[2023.11.22-17.25.21:894][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.11.22-17.25.21:895][ 24]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.11.22-17.25.21:895][ 24]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.22-17.25.21:895][ 24]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.22-17.25.21:895][ 24]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.22-17.25.21:895][ 24]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.22-17.25.21:895][ 24]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.22-17.25.21:895][ 24]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.22-17.25.21:895][ 24]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.22-17.25.21:895][ 24]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.22-17.25.21:896][ 24]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.22-17.25.21:896][ 24]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.22-17.25.21:896][ 24]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.22-17.25.21:897][ 24]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.22-17.25.21:909][ 24]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G635/G633s Gaming Headset)
+[2023.11.22-17.25.21:909][ 24]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.22-17.25.21:909][ 24]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.22-17.25.21:909][ 24]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.22-17.25.21:910][ 24]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.11.22-17.25.21:910][ 24]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=13
+[2023.11.22-17.25.21:910][ 24]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.11.22-17.25.21:910][ 24]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.11.22-17.25.21:910][ 24]LogInit: FAudioDevice initialized.
+[2023.11.22-17.25.21:911][ 24]LogAudio: Display: Audio Device (ID: 13) registered with world 'FightingMap'.
+[2023.11.22-17.25.21:919][ 24]LogLoad: Game class is 'FightingGamemode_C'
+[2023.11.22-17.25.21:920][ 24]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FightingMap.FightingMap up for play (max tick rate 0) at 2023.11.22-12.25.21
+[2023.11.22-17.25.21:920][ 24]LogWorld: Bringing up level for play took: 0.000470
+[2023.11.22-17.25.21:921][ 24]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2023.11.22-17.25.21:922][ 24]PIE: Server logged in
+[2023.11.22-17.25.21:923][ 24]PIE: Play in editor total start time 0.054 seconds.
+[2023.11.22-17.25.39:123][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.22-17.25.39:123][ 72]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FightingMap
+[2023.11.22-17.25.39:123][ 72]LogWorld: UWorld::CleanupWorld for FightingMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.22-17.25.39:123][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.22-17.25.39:134][ 72]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.22-17.25.39:137][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.22-17.25.39:159][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.22-17.25.39:159][ 72]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.11.22-17.25.39:160][ 72]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.11.22-17.25.39:170][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.11.22-17.25.39:210][ 73]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2023.11.22-17.25.39:214][ 73]LogViewport: Scene viewport resized to 328x185, mode Windowed.
+[2023.11.22-17.25.51:789][996]LogViewport: Scene viewport resized to 380x185, mode Windowed.
+[2023.11.22-17.25.54:013][239]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.22-17.25.54:018][239]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.22-17.25.54:018][239]PIE: New page: PIE session: FightingMap (Nov. 22, 2023, 7:25:54 a.m.)
+[2023.11.22-17.25.54:053][239]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FightingMap
+[2023.11.22-17.25.54:054][239]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001699s)
+[2023.11.22-17.25.54:054][239]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FightingMap.FightingMap to /Game/Maps/UEDPIE_0_FightingMap.FightingMap (0.001777s)
+[2023.11.22-17.25.54:054][239]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.11.22-17.25.54:054][239]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.22-17.25.54:055][239]LogAIModule: Creating AISystem for world FightingMap
+[2023.11.22-17.25.54:055][239]LogPlayLevel: PIE: World Init took: (0.000596s)
+[2023.11.22-17.25.54:079][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.11.22-17.25.54:081][239]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.11.22-17.25.54:081][239]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.22-17.25.54:081][239]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.22-17.25.54:081][239]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.22-17.25.54:081][239]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.22-17.25.54:081][239]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.22-17.25.54:081][239]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.22-17.25.54:081][239]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.22-17.25.54:081][239]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.22-17.25.54:081][239]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.22-17.25.54:081][239]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.22-17.25.54:081][239]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.22-17.25.54:082][239]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.22-17.25.54:094][239]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G635/G633s Gaming Headset)
+[2023.11.22-17.25.54:094][239]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.22-17.25.54:094][239]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.22-17.25.54:094][239]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.22-17.25.54:095][239]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.11.22-17.25.54:095][239]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=14
+[2023.11.22-17.25.54:095][239]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.11.22-17.25.54:096][239]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.11.22-17.25.54:096][239]LogInit: FAudioDevice initialized.
+[2023.11.22-17.25.54:096][239]LogAudio: Display: Audio Device (ID: 14) registered with world 'FightingMap'.
+[2023.11.22-17.25.54:108][239]LogLoad: Game class is 'FightingGamemode_C'
+[2023.11.22-17.25.54:108][239]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FightingMap.FightingMap up for play (max tick rate 0) at 2023.11.22-12.25.54
+[2023.11.22-17.25.54:108][239]LogWorld: Bringing up level for play took: 0.000453
+[2023.11.22-17.25.54:109][239]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2023.11.22-17.25.54:110][239]PIE: Server logged in
+[2023.11.22-17.25.54:111][239]PIE: Play in editor total start time 0.094 seconds.
+[2023.11.22-17.26.12:143][391]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.22-17.26.12:143][391]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FightingMap
+[2023.11.22-17.26.12:143][391]LogWorld: UWorld::CleanupWorld for FightingMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.22-17.26.12:143][391]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.22-17.26.12:152][391]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.22-17.26.12:154][391]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.22-17.26.12:175][391]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.22-17.26.12:175][391]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.11.22-17.26.12:177][391]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.11.22-17.26.12:180][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.11.22-17.26.12:224][392]LogViewport: Scene viewport resized to 380x185, mode Windowed.
+[2023.11.22-17.26.12:279][393]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.11.22-17.26.15:029][693]LogViewport: Scene viewport resized to 1138x589, mode Windowed.
+[2023.11.22-17.26.33:138][281]BlueprintLog: New page: Compile Player1_BP
+[2023.11.22-17.26.33:177][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.11.22-17.26.33:613][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player1_BP" FILE="C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Blueprints/Player1_BP.uasset" SILENT=true
+[2023.11.22-17.26.33:616][315]LogSavePackage: Moving output files for package: /Game/Blueprints/Player1_BP
+[2023.11.22-17.26.33:616][315]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/Player1_BP2193029C4F1801FB3A0E50A92F753DC1.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Blueprints/Player1_BP.uasset'
+[2023.11.22-17.26.33:626][315]AssetCheck: New page: Asset Save: Player1_BP
+[2023.11.22-17.26.33:626][315]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player1_BP.Player1_BP
+[2023.11.22-17.26.35:540][515]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.22-17.26.35:544][515]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.22-17.26.35:544][515]PIE: New page: PIE session: FightingMap (Nov. 22, 2023, 7:26:35 a.m.)
+[2023.11.22-17.26.35:573][515]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FightingMap
+[2023.11.22-17.26.35:574][515]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001536s)
+[2023.11.22-17.26.35:574][515]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FightingMap.FightingMap to /Game/Maps/UEDPIE_0_FightingMap.FightingMap (0.001612s)
+[2023.11.22-17.26.35:574][515]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.11.22-17.26.35:574][515]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.22-17.26.35:575][515]LogAIModule: Creating AISystem for world FightingMap
+[2023.11.22-17.26.35:575][515]LogPlayLevel: PIE: World Init took: (0.000517s)
+[2023.11.22-17.26.35:598][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.11.22-17.26.35:601][515]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.11.22-17.26.35:601][515]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.22-17.26.35:601][515]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.22-17.26.35:601][515]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.22-17.26.35:601][515]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.22-17.26.35:601][515]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.22-17.26.35:601][515]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.22-17.26.35:601][515]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.22-17.26.35:601][515]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.22-17.26.35:601][515]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.22-17.26.35:601][515]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.22-17.26.35:601][515]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.22-17.26.35:602][515]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.22-17.26.35:614][515]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G635/G633s Gaming Headset)
+[2023.11.22-17.26.35:614][515]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.22-17.26.35:614][515]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.22-17.26.35:614][515]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.22-17.26.35:615][515]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.11.22-17.26.35:615][515]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=15
+[2023.11.22-17.26.35:616][515]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.11.22-17.26.35:616][515]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.11.22-17.26.35:616][515]LogInit: FAudioDevice initialized.
+[2023.11.22-17.26.35:616][515]LogAudio: Display: Audio Device (ID: 15) registered with world 'FightingMap'.
+[2023.11.22-17.26.35:621][515]LogLoad: Game class is 'FightingGamemode_C'
+[2023.11.22-17.26.35:622][515]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FightingMap.FightingMap up for play (max tick rate 0) at 2023.11.22-12.26.35
+[2023.11.22-17.26.35:622][515]LogWorld: Bringing up level for play took: 0.000438
+[2023.11.22-17.26.35:623][515]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2023.11.22-17.26.35:624][515]PIE: Server logged in
+[2023.11.22-17.26.35:625][515]PIE: Play in editor total start time 0.081 seconds.
+[2023.11.22-17.27.38:311][ 45]LogAssetEditorSubsystem: Opening Asset editor for PaperZDAnimationSource_Flipbook /Game/Animations/Player1AnimationSource.Player1AnimationSource
+[2023.11.22-17.27.38:334][ 45]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.22-17.27.38:368][ 45]LogContentBrowser: Verbose: The majority of assets in the view are of type: PaperZDAnimSequence_Flipbook
+[2023.11.22-17.27.38:371][ 45]LogViewport: Scene viewport resized to 1138x772, mode Windowed.
+[2023.11.22-17.27.41:512][390]LogViewport: Scene viewport resized to 1138x460, mode Windowed.
+[2023.11.22-17.27.47:273][ 73]LogContentBrowser: Attempting asset rename: NewPaperZDAnimSequence -> Player1Attack
+[2023.11.22-17.27.47:286][ 73]LogSavePackage: Moving output files for package: /Game/Animations/AnimSequences/Player1Attack
+[2023.11.22-17.27.47:286][ 73]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/Player1Attack8518CAF04A1BBBF84BBFF69D33BFB4AD.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Animations/AnimSequences/Player1Attack.uasset'
+[2023.11.22-17.27.47:334][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.11.22-17.27.47:363][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.11.22-17.27.47:387][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.11.22-17.27.47:391][ 73]AssetCheck: New page: Asset Save: Player1Attack
+[2023.11.22-17.27.47:391][ 73]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Animations/AnimSequences/Player1Attack.Player1Attack
+[2023.11.22-17.27.57:166][224]LogSavePackage: Moving output files for package: /Game/Animations/Player1AnimationSource
+[2023.11.22-17.27.57:166][224]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/Player1AnimationSourceCCE7438142C48BAED01F1CB750C1D5E4.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Animations/Player1AnimationSource.uasset'
+[2023.11.22-17.27.57:175][224]AssetCheck: New page: Asset Save: Player1AnimationSource
+[2023.11.22-17.27.57:175][224]LogContentValidation: Display: Validating PaperZDAnimationSource_Flipbook /Game/Animations/Player1AnimationSource.Player1AnimationSource
+[2023.11.22-17.27.59:318][475]LogAssetEditorSubsystem: Opening Asset editor for PaperZDAnimBP /Game/Animations/Player1Animation_BP.Player1Animation_BP
+[2023.11.22-17.27.59:318][475]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.22-17.28.12:642][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.22-17.28.12:642][ 32]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FightingMap
+[2023.11.22-17.28.12:643][ 32]LogWorld: UWorld::CleanupWorld for FightingMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.22-17.28.12:643][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.22-17.28.12:653][ 32]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.22-17.28.12:657][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.22-17.28.12:689][ 32]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.22-17.28.12:689][ 32]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.11.22-17.28.12:691][ 32]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.11.22-17.28.12:694][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.22-17.28.12:696][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.11.22-17.28.12:734][ 33]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.11.22-17.28.12:737][ 33]LogViewport: Scene viewport resized to 380x185, mode Windowed.
+[2023.11.22-17.28.43:953][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Player1Animation_BP" FILE="C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Animations/Player1Animation_BP.uasset" SILENT=true
+[2023.11.22-17.28.43:962][613]LogSavePackage: Moving output files for package: /Game/Animations/Player1Animation_BP
+[2023.11.22-17.28.43:962][613]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/Player1Animation_BP517EC7FA458BD741E7FF12836E930389.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Animations/Player1Animation_BP.uasset'
+[2023.11.22-17.28.43:973][613]AssetCheck: New page: Asset Save: Player1Animation_BP
+[2023.11.22-17.28.43:973][613]LogContentValidation: Display: Validating PaperZDAnimBP /Game/Animations/Player1Animation_BP.Player1Animation_BP
+[2023.11.22-17.29.21:064][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Player1Animation_BP" FILE="C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Animations/Player1Animation_BP.uasset" SILENT=true
+[2023.11.22-17.29.21:073][871]LogSavePackage: Moving output files for package: /Game/Animations/Player1Animation_BP
+[2023.11.22-17.29.21:073][871]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/Player1Animation_BPF6E875D849CD496D742A04AC98874815.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Animations/Player1Animation_BP.uasset'
+[2023.11.22-17.29.21:083][871]AssetCheck: New page: Asset Save: Player1Animation_BP
+[2023.11.22-17.29.21:083][871]LogContentValidation: Display: Validating PaperZDAnimBP /Game/Animations/Player1Animation_BP.Player1Animation_BP
+[2023.11.22-17.29.23:168][104]BlueprintLog: New page: Compile Player1Animation_BP
+[2023.11.22-17.29.23:209][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.11.22-17.29.23:717][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Player1Animation_BP" FILE="C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Animations/Player1Animation_BP.uasset" SILENT=true
+[2023.11.22-17.29.23:725][159]LogSavePackage: Moving output files for package: /Game/Animations/Player1Animation_BP
+[2023.11.22-17.29.23:725][159]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/Player1Animation_BP9F9F138847B3D69512DD5DBFEABE853A.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Animations/Player1Animation_BP.uasset'
+[2023.11.22-17.29.23:735][159]AssetCheck: New page: Asset Save: Player1Animation_BP
+[2023.11.22-17.29.23:735][159]LogContentValidation: Display: Validating PaperZDAnimBP /Game/Animations/Player1Animation_BP.Player1Animation_BP
+[2023.11.22-17.29.35:437][142]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.11.22-17.29.35:489][142]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2023.11.22-17.31.05:579][ 48]BlueprintLog: New page: Compile Player1_BP
+[2023.11.22-17.31.05:625][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.11.22-17.31.06:016][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player1_BP" FILE="C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Blueprints/Player1_BP.uasset" SILENT=true
+[2023.11.22-17.31.06:020][ 87]LogSavePackage: Moving output files for package: /Game/Blueprints/Player1_BP
+[2023.11.22-17.31.06:020][ 87]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/Player1_BP5BB38E8647EE3432F0CFED929489069A.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Blueprints/Player1_BP.uasset'
+[2023.11.22-17.31.06:032][ 87]AssetCheck: New page: Asset Save: Player1_BP
+[2023.11.22-17.31.06:032][ 87]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player1_BP.Player1_BP
+[2023.11.22-17.31.08:207][337]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.22-17.31.08:210][337]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.22-17.31.08:211][337]LogPlayLevel: [PlayLevel] Compiling FightingMap before play...
+[2023.11.22-17.31.08:262][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.11.22-17.31.08:263][337]LogPlayLevel: PlayLevel: Blueprint regeneration took 52 ms (1 blueprints)
+[2023.11.22-17.31.08:263][337]PIE: New page: PIE session: FightingMap (Nov. 22, 2023, 7:31:08 a.m.)
+[2023.11.22-17.31.08:263][337]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FightingMap
+[2023.11.22-17.31.08:265][337]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001488s)
+[2023.11.22-17.31.08:265][337]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FightingMap.FightingMap to /Game/Maps/UEDPIE_0_FightingMap.FightingMap (0.001531s)
+[2023.11.22-17.31.08:265][337]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.11.22-17.31.08:265][337]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.22-17.31.08:265][337]LogAIModule: Creating AISystem for world FightingMap
+[2023.11.22-17.31.08:265][337]LogPlayLevel: PIE: World Init took: (0.000570s)
+[2023.11.22-17.31.08:297][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.11.22-17.31.08:298][337]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.11.22-17.31.08:298][337]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.22-17.31.08:298][337]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.22-17.31.08:298][337]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.22-17.31.08:298][337]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.22-17.31.08:298][337]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.22-17.31.08:298][337]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.22-17.31.08:298][337]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.22-17.31.08:298][337]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.22-17.31.08:298][337]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.22-17.31.08:298][337]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.22-17.31.08:298][337]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.22-17.31.08:299][337]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.22-17.31.08:311][337]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G635/G633s Gaming Headset)
+[2023.11.22-17.31.08:311][337]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.22-17.31.08:311][337]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.22-17.31.08:311][337]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.22-17.31.08:312][337]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2023.11.22-17.31.08:312][337]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=16
+[2023.11.22-17.31.08:312][337]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2023.11.22-17.31.08:312][337]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2023.11.22-17.31.08:312][337]LogInit: FAudioDevice initialized.
+[2023.11.22-17.31.08:312][337]LogAudio: Display: Audio Device (ID: 16) registered with world 'FightingMap'.
+[2023.11.22-17.31.08:320][337]LogLoad: Game class is 'FightingGamemode_C'
+[2023.11.22-17.31.08:320][337]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FightingMap.FightingMap up for play (max tick rate 0) at 2023.11.22-12.31.08
+[2023.11.22-17.31.08:321][337]LogWorld: Bringing up level for play took: 0.000511
+[2023.11.22-17.31.08:321][337]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2023.11.22-17.31.08:323][337]PIE: Server logged in
+[2023.11.22-17.31.08:323][337]PIE: Play in editor total start time 0.114 seconds.
+[2023.11.22-17.31.30:013][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.22-17.31.30:013][927]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FightingMap
+[2023.11.22-17.31.30:013][927]LogWorld: UWorld::CleanupWorld for FightingMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.22-17.31.30:013][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.22-17.31.30:020][927]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.22-17.31.30:024][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.22-17.31.30:054][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.22-17.31.30:054][927]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.11.22-17.31.30:055][927]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.11.22-17.31.30:059][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.11.22-17.31.30:100][928]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.11.22-17.31.30:104][928]LogViewport: Scene viewport resized to 380x185, mode Windowed.
+[2023.11.22-17.33.20:316][268]BlueprintLog: New page: Compile Player1_BP
+[2023.11.22-17.33.20:363][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.11.22-17.33.20:757][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player1_BP" FILE="C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Blueprints/Player1_BP.uasset" SILENT=true
+[2023.11.22-17.33.20:762][307]LogSavePackage: Moving output files for package: /Game/Blueprints/Player1_BP
+[2023.11.22-17.33.20:763][307]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/Player1_BP742C34814875C146AEC7AE8357C1C6F7.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Blueprints/Player1_BP.uasset'
+[2023.11.22-17.33.20:772][307]AssetCheck: New page: Asset Save: Player1_BP
+[2023.11.22-17.33.20:772][307]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player1_BP.Player1_BP
+[2023.11.22-17.33.22:892][552]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.22-17.33.22:896][552]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.22-17.33.22:896][552]PIE: New page: PIE session: FightingMap (Nov. 22, 2023, 7:33:22 a.m.)
+[2023.11.22-17.33.22:933][552]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FightingMap
+[2023.11.22-17.33.22:934][552]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001704s)
+[2023.11.22-17.33.22:934][552]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FightingMap.FightingMap to /Game/Maps/UEDPIE_0_FightingMap.FightingMap (0.001796s)
+[2023.11.22-17.33.22:934][552]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.11.22-17.33.22:934][552]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.22-17.33.22:935][552]LogAIModule: Creating AISystem for world FightingMap
+[2023.11.22-17.33.22:935][552]LogPlayLevel: PIE: World Init took: (0.000567s)
+[2023.11.22-17.33.22:965][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.11.22-17.33.22:966][552]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.11.22-17.33.22:967][552]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.22-17.33.22:967][552]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.22-17.33.22:967][552]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.22-17.33.22:967][552]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.22-17.33.22:967][552]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.22-17.33.22:967][552]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.22-17.33.22:967][552]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.22-17.33.22:967][552]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.22-17.33.22:967][552]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.22-17.33.22:967][552]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.22-17.33.22:967][552]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.22-17.33.22:968][552]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.22-17.33.22:980][552]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G635/G633s Gaming Headset)
+[2023.11.22-17.33.22:980][552]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.22-17.33.22:980][552]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.22-17.33.22:981][552]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.22-17.33.22:982][552]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2023.11.22-17.33.22:982][552]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=17
+[2023.11.22-17.33.22:983][552]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2023.11.22-17.33.22:983][552]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2023.11.22-17.33.22:983][552]LogInit: FAudioDevice initialized.
+[2023.11.22-17.33.22:983][552]LogAudio: Display: Audio Device (ID: 17) registered with world 'FightingMap'.
+[2023.11.22-17.33.22:990][552]LogLoad: Game class is 'FightingGamemode_C'
+[2023.11.22-17.33.22:990][552]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FightingMap.FightingMap up for play (max tick rate 0) at 2023.11.22-12.33.22
+[2023.11.22-17.33.22:990][552]LogWorld: Bringing up level for play took: 0.000451
+[2023.11.22-17.33.22:991][552]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2023.11.22-17.33.22:992][552]PIE: Server logged in
+[2023.11.22-17.33.22:993][552]PIE: Play in editor total start time 0.097 seconds.
+[2023.11.22-17.33.58:423][769]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.11.22-17.33.58:423][769]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2023.11.22-17.33.59:175][857]LogContentBrowser: Deferred new asset file creation: air_atk
+[2023.11.22-17.33.59:184][857]LogContentBrowser: Creating deferred item: air_atk
+[2023.11.22-17.33.59:189][858]LogContentBrowser: Renaming the item being created (Deferred Item: air_atk).
+[2023.11.22-17.34.06:828][773]LogContentBrowser: Attempting asset rename: air_atk -> PLayer1AirAttack
+[2023.11.22-17.34.06:829][773]LogContentBrowser: End creating deferred item air_atk
+[2023.11.22-17.34.20:399][381]LogContentBrowser: Attempting asset rename: NewPaperZDAnimSequence -> Player1AirAttack
+[2023.11.22-17.34.20:411][381]LogSavePackage: Moving output files for package: /Game/Animations/AnimSequences/Player1AirAttack
+[2023.11.22-17.34.20:411][381]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/Player1AirAttack1B7015BB413999181E4695BA972CC6CA.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Animations/AnimSequences/Player1AirAttack.uasset'
+[2023.11.22-17.34.20:456][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.11.22-17.34.20:487][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.11.22-17.34.20:517][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.11.22-17.34.20:523][381]AssetCheck: New page: Asset Save: Player1AirAttack
+[2023.11.22-17.34.20:523][381]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Animations/AnimSequences/Player1AirAttack.Player1AirAttack
+[2023.11.22-17.34.26:632][ 93]LogSavePackage: Moving output files for package: /Game/Animations/Player1AnimationSource
+[2023.11.22-17.34.26:632][ 93]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/Player1AnimationSource82B4DCAA4ECF9D5500C718A33AFA6782.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Animations/Player1AnimationSource.uasset'
+[2023.11.22-17.34.26:642][ 93]AssetCheck: New page: Asset Save: Player1AnimationSource
+[2023.11.22-17.34.26:643][ 93]LogContentValidation: Display: Validating PaperZDAnimationSource_Flipbook /Game/Animations/Player1AnimationSource.Player1AnimationSource
+[2023.11.22-17.34.34:733][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.22-17.34.34:733][ 50]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FightingMap
+[2023.11.22-17.34.34:733][ 50]LogWorld: UWorld::CleanupWorld for FightingMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.22-17.34.34:733][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.22-17.34.34:744][ 50]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.22-17.34.34:748][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.22-17.34.34:779][ 50]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.22-17.34.34:779][ 50]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.11.22-17.34.34:780][ 50]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.11.22-17.34.34:783][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.22-17.34.34:784][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.11.22-17.34.34:819][ 51]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.11.22-17.34.34:823][ 51]LogViewport: Scene viewport resized to 380x185, mode Windowed.
+[2023.11.22-17.35.01:953][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Player1Animation_BP" FILE="C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Animations/Player1Animation_BP.uasset" SILENT=true
+[2023.11.22-17.35.01:963][155]LogSavePackage: Moving output files for package: /Game/Animations/Player1Animation_BP
+[2023.11.22-17.35.01:963][155]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/Player1Animation_BP0BBFF6054AE61D3961089584B7EE79E5.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Animations/Player1Animation_BP.uasset'
+[2023.11.22-17.35.01:973][155]AssetCheck: New page: Asset Save: Player1Animation_BP
+[2023.11.22-17.35.01:973][155]LogContentValidation: Display: Validating PaperZDAnimBP /Game/Animations/Player1Animation_BP.Player1Animation_BP
+[2023.11.22-17.35.44:384][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Player1Animation_BP" FILE="C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Animations/Player1Animation_BP.uasset" SILENT=true
+[2023.11.22-17.35.44:393][360]LogSavePackage: Moving output files for package: /Game/Animations/Player1Animation_BP
+[2023.11.22-17.35.44:394][360]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/Player1Animation_BPC32E0584420763826633C6AF841AB035.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Animations/Player1Animation_BP.uasset'
+[2023.11.22-17.35.44:406][360]AssetCheck: New page: Asset Save: Player1Animation_BP
+[2023.11.22-17.35.44:406][360]LogContentValidation: Display: Validating PaperZDAnimBP /Game/Animations/Player1Animation_BP.Player1Animation_BP
+[2023.11.22-17.35.47:839][717]BlueprintLog: New page: Compile Player1Animation_BP
+[2023.11.22-17.35.47:880][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.11.22-17.35.48:342][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Player1Animation_BP" FILE="C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Animations/Player1Animation_BP.uasset" SILENT=true
+[2023.11.22-17.35.48:352][767]LogSavePackage: Moving output files for package: /Game/Animations/Player1Animation_BP
+[2023.11.22-17.35.48:352][767]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/Player1Animation_BP5AD8ACD3460B54249A5EA9A22998765F.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Animations/Player1Animation_BP.uasset'
+[2023.11.22-17.35.48:362][767]AssetCheck: New page: Asset Save: Player1Animation_BP
+[2023.11.22-17.35.48:362][767]LogContentValidation: Display: Validating PaperZDAnimBP /Game/Animations/Player1Animation_BP.Player1Animation_BP
+[2023.11.22-17.37.36:856][134]LogDerivedDataCache: C:/Users/Aidan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.009 and deleted 0 file(s) with total size 0 MiB.
+[2023.11.22-17.38.41:771][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player1_BP" FILE="C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Blueprints/Player1_BP.uasset" SILENT=true
+[2023.11.22-17.38.41:778][187]LogSavePackage: Moving output files for package: /Game/Blueprints/Player1_BP
+[2023.11.22-17.38.41:778][187]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/Player1_BPF4FA305541352DEAE5A603AA69DEA487.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Blueprints/Player1_BP.uasset'
+[2023.11.22-17.38.41:787][187]AssetCheck: New page: Asset Save: Player1_BP
+[2023.11.22-17.38.41:787][187]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player1_BP.Player1_BP
+[2023.11.22-17.38.42:175][230]BlueprintLog: New page: Compile Player1_BP
+[2023.11.22-17.38.42:226][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.11.22-17.38.44:603][497]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.22-17.38.44:607][497]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.22-17.38.44:607][497]LogPlayLevel: [PlayLevel] Compiling FightingMap before play...
+[2023.11.22-17.38.44:653][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.11.22-17.38.44:656][497]LogPlayLevel: PlayLevel: Blueprint regeneration took 49 ms (1 blueprints)
+[2023.11.22-17.38.44:656][497]PIE: New page: PIE session: FightingMap (Nov. 22, 2023, 7:38:44 a.m.)
+[2023.11.22-17.38.44:656][497]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FightingMap
+[2023.11.22-17.38.44:657][497]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001437s)
+[2023.11.22-17.38.44:657][497]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FightingMap.FightingMap to /Game/Maps/UEDPIE_0_FightingMap.FightingMap (0.001485s)
+[2023.11.22-17.38.44:657][497]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.11.22-17.38.44:657][497]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.22-17.38.44:658][497]LogAIModule: Creating AISystem for world FightingMap
+[2023.11.22-17.38.44:658][497]LogPlayLevel: PIE: World Init took: (0.000593s)
+[2023.11.22-17.38.44:690][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.11.22-17.38.44:691][497]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.11.22-17.38.44:691][497]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.22-17.38.44:691][497]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.22-17.38.44:691][497]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.22-17.38.44:691][497]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.22-17.38.44:691][497]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.22-17.38.44:691][497]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.22-17.38.44:691][497]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.22-17.38.44:691][497]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.22-17.38.44:692][497]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.22-17.38.44:692][497]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.22-17.38.44:692][497]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.22-17.38.44:693][497]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.22-17.38.44:706][497]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G635/G633s Gaming Headset)
+[2023.11.22-17.38.44:707][497]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.22-17.38.44:707][497]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.22-17.38.44:707][497]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.22-17.38.44:707][497]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2023.11.22-17.38.44:707][497]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=18
+[2023.11.22-17.38.44:708][497]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2023.11.22-17.38.44:708][497]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2023.11.22-17.38.44:708][497]LogInit: FAudioDevice initialized.
+[2023.11.22-17.38.44:708][497]LogAudio: Display: Audio Device (ID: 18) registered with world 'FightingMap'.
+[2023.11.22-17.38.44:721][497]LogLoad: Game class is 'FightingGamemode_C'
+[2023.11.22-17.38.44:722][497]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FightingMap.FightingMap up for play (max tick rate 0) at 2023.11.22-12.38.44
+[2023.11.22-17.38.44:722][497]LogWorld: Bringing up level for play took: 0.000506
+[2023.11.22-17.38.44:723][497]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2023.11.22-17.38.44:724][497]PIE: Server logged in
+[2023.11.22-17.38.44:725][497]PIE: Play in editor total start time 0.119 seconds.
+[2023.11.22-17.39.25:393][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.22-17.39.25:394][356]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FightingMap
+[2023.11.22-17.39.25:394][356]LogWorld: UWorld::CleanupWorld for FightingMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.22-17.39.25:394][356]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.22-17.39.25:401][356]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.22-17.39.25:405][356]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.22-17.39.25:435][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.22-17.39.25:435][356]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.11.22-17.39.25:436][356]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.11.22-17.39.25:440][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.11.22-17.39.25:481][357]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.11.22-17.39.25:486][357]LogViewport: Scene viewport resized to 380x185, mode Windowed.
+[2023.11.22-17.41.14:459][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Player1_BP" FILE="C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Blueprints/Player1_BP.uasset" SILENT=true
+[2023.11.22-17.41.14:465][690]LogSavePackage: Moving output files for package: /Game/Blueprints/Player1_BP
+[2023.11.22-17.41.14:465][690]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/Player1_BP0D08937D4CCE638510DD5A86A5823FA5.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Blueprints/Player1_BP.uasset'
+[2023.11.22-17.41.14:479][690]AssetCheck: New page: Asset Save: Player1_BP
+[2023.11.22-17.41.14:479][690]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Player1_BP.Player1_BP
+[2023.11.22-17.41.15:884][837]BlueprintLog: New page: Compile Player1_BP
+[2023.11.22-17.41.15:932][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.11.22-17.41.18:376][110]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.22-17.41.18:380][110]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.22-17.41.18:380][110]PIE: New page: PIE session: FightingMap (Nov. 22, 2023, 7:41:18 a.m.)
+[2023.11.22-17.41.18:402][110]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FightingMap
+[2023.11.22-17.41.18:404][110]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001607s)
+[2023.11.22-17.41.18:404][110]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FightingMap.FightingMap to /Game/Maps/UEDPIE_0_FightingMap.FightingMap (0.001683s)
+[2023.11.22-17.41.18:404][110]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.11.22-17.41.18:404][110]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.22-17.41.18:404][110]LogAIModule: Creating AISystem for world FightingMap
+[2023.11.22-17.41.18:405][110]LogPlayLevel: PIE: World Init took: (0.000574s)
+[2023.11.22-17.41.18:434][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.11.22-17.41.18:437][110]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.11.22-17.41.18:437][110]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.22-17.41.18:437][110]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.22-17.41.18:437][110]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.22-17.41.18:437][110]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.22-17.41.18:437][110]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.22-17.41.18:437][110]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.22-17.41.18:437][110]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.22-17.41.18:437][110]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.22-17.41.18:437][110]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.22-17.41.18:437][110]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.22-17.41.18:437][110]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.22-17.41.18:439][110]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.22-17.41.18:450][110]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G635/G633s Gaming Headset)
+[2023.11.22-17.41.18:450][110]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.22-17.41.18:450][110]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.22-17.41.18:451][110]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.22-17.41.18:451][110]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2023.11.22-17.41.18:451][110]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=19
+[2023.11.22-17.41.18:452][110]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2023.11.22-17.41.18:452][110]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2023.11.22-17.41.18:452][110]LogInit: FAudioDevice initialized.
+[2023.11.22-17.41.18:452][110]LogAudio: Display: Audio Device (ID: 19) registered with world 'FightingMap'.
+[2023.11.22-17.41.18:463][110]LogLoad: Game class is 'FightingGamemode_C'
+[2023.11.22-17.41.18:464][110]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FightingMap.FightingMap up for play (max tick rate 0) at 2023.11.22-12.41.18
+[2023.11.22-17.41.18:464][110]LogWorld: Bringing up level for play took: 0.000472
+[2023.11.22-17.41.18:465][110]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2023.11.22-17.41.18:466][110]PIE: Server logged in
+[2023.11.22-17.41.18:466][110]PIE: Play in editor total start time 0.087 seconds.
+[2023.11.22-17.41.40:353][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.22-17.41.40:353][722]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FightingMap
+[2023.11.22-17.41.40:353][722]LogWorld: UWorld::CleanupWorld for FightingMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.22-17.41.40:353][722]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.22-17.41.40:365][722]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.22-17.41.40:369][722]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.22-17.41.40:399][722]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.22-17.41.40:400][722]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.11.22-17.41.40:401][722]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.11.22-17.41.40:403][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.22-17.41.40:405][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.11.22-17.41.40:447][723]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.11.22-17.41.40:451][723]LogViewport: Scene viewport resized to 380x185, mode Windowed.
+[2023.11.22-17.41.46:671][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.11.22-17.41.46:702][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FightingMap" FILE="C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Maps/FightingMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.22-17.41.46:731][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.11.22-17.41.46:738][988]LogSavePackage: Moving output files for package: /Game/Maps/FightingMap
+[2023.11.22-17.41.46:738][988]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/FightingMapDB8E6DBB457A616062928FA210CA6B4A.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Maps/FightingMap.umap'
+[2023.11.22-17.41.46:748][988]LogFileHelpers: No new changes to save!
+[2023.11.22-17.41.46:748][988]LogFileHelpers: Saving map 'FightingMap' took 0.046
+[2023.11.22-17.41.46:748][988]LogSavePackage: Moving output files for package: /Game/Animations/AnimSequences/Player1Attack
+[2023.11.22-17.41.46:748][988]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/Player1AttackE66BA1744037C68A03AD7F869B9A314D.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Animations/AnimSequences/Player1Attack.uasset'
+[2023.11.22-17.41.46:749][988]LogSavePackage: Moving output files for package: /Game/Animations/AnimSequences/Player1AirAttack
+[2023.11.22-17.41.46:750][988]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/Player1AirAttackC71225584DA5BA0D940D92B8DF333A63.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Animations/AnimSequences/Player1AirAttack.uasset'
+[2023.11.22-17.41.46:753][988]LogSavePackage: Moving output files for package: /Game/Characters/Player1/air_atk/air_atk_1_Sprite
+[2023.11.22-17.41.46:753][988]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/air_atk_1_Sprite9062696846C3F77516478A941EE163FE.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Characters/Player1/air_atk/air_atk_1_Sprite.uasset'
+[2023.11.22-17.41.46:755][988]LogSavePackage: Moving output files for package: /Game/Characters/Player1/air_atk/air_atk_2_Sprite
+[2023.11.22-17.41.46:755][988]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/air_atk_2_Sprite80FBBE0C47487BE4493B2A848FF3A833.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Characters/Player1/air_atk/air_atk_2_Sprite.uasset'
+[2023.11.22-17.41.46:757][988]LogSavePackage: Moving output files for package: /Game/Characters/Player1/air_atk/air_atk_3_Sprite
+[2023.11.22-17.41.46:758][988]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/air_atk_3_Sprite3F02315F446C5C6EA64ABCBBA5416383.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Characters/Player1/air_atk/air_atk_3_Sprite.uasset'
+[2023.11.22-17.41.46:760][988]LogSavePackage: Moving output files for package: /Game/Characters/Player1/air_atk/air_atk_4_Sprite
+[2023.11.22-17.41.46:760][988]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/air_atk_4_Sprite06B48651407572227A545EA6035793E1.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Characters/Player1/air_atk/air_atk_4_Sprite.uasset'
+[2023.11.22-17.41.46:762][988]LogSavePackage: Moving output files for package: /Game/Characters/Player1/air_atk/air_atk_5_Sprite
+[2023.11.22-17.41.46:762][988]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/air_atk_5_Sprite3BB3C3C3446B01B96611EDB872B0C826.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Characters/Player1/air_atk/air_atk_5_Sprite.uasset'
+[2023.11.22-17.41.46:764][988]LogSavePackage: Moving output files for package: /Game/Characters/Player1/air_atk/air_atk_6_Sprite
+[2023.11.22-17.41.46:764][988]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/air_atk_6_Sprite65F43F8E4882D7F63CCCE68993CF7DB4.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Characters/Player1/air_atk/air_atk_6_Sprite.uasset'
+[2023.11.22-17.41.46:766][988]LogSavePackage: Moving output files for package: /Game/Characters/Player1/air_atk/air_atk_7_Sprite
+[2023.11.22-17.41.46:766][988]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/air_atk_7_SpriteC39C51D74CFB2D9DF262EB8D5C6F4DAC.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Characters/Player1/air_atk/air_atk_7_Sprite.uasset'
+[2023.11.22-17.41.46:768][988]LogSavePackage: Moving output files for package: /Game/Characters/Player1/air_atk/PLayer1AirAttack
+[2023.11.22-17.41.46:768][988]LogSavePackage: Moving 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Saved/PLayer1AirAttackD5D995374213A855633805B51A2D9F17.tmp' to 'C:/Users/Aidan/Documents/GitHub/ASG2-AidanSkomra-/ASG2FightingGame/Content/Characters/Player1/air_atk/PLayer1AirAttack.uasset'
+[2023.11.22-17.41.46:780][988]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.22-17.41.46:780][988]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Animations/AnimSequences/Player1AirAttack.Player1AirAttack
+[2023.11.22-17.41.46:780][988]LogContentValidation: Display: Validating PaperFlipbook /Game/Characters/Player1/air_atk/PLayer1AirAttack.PLayer1AirAttack
+[2023.11.22-17.41.46:780][988]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Player1/air_atk/air_atk_7_Sprite.air_atk_7_Sprite
+[2023.11.22-17.41.46:780][988]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Player1/air_atk/air_atk_6_Sprite.air_atk_6_Sprite
+[2023.11.22-17.41.46:780][988]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Player1/air_atk/air_atk_5_Sprite.air_atk_5_Sprite
+[2023.11.22-17.41.46:780][988]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Player1/air_atk/air_atk_4_Sprite.air_atk_4_Sprite
+[2023.11.22-17.41.46:780][988]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Player1/air_atk/air_atk_3_Sprite.air_atk_3_Sprite
+[2023.11.22-17.41.46:780][988]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Player1/air_atk/air_atk_2_Sprite.air_atk_2_Sprite
+[2023.11.22-17.41.46:780][988]LogContentValidation: Display: Validating PaperSprite /Game/Characters/Player1/air_atk/air_atk_1_Sprite.air_atk_1_Sprite
+[2023.11.22-17.41.46:780][988]LogContentValidation: Display: Validating PaperZDAnimSequence_Flipbook /Game/Animations/AnimSequences/Player1Attack.Player1Attack
+[2023.11.22-17.41.46:780][988]LogContentValidation: Display: Validating World /Game/Maps/FightingMap.FightingMap
